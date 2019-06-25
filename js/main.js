@@ -35,6 +35,7 @@ const checkAndPlayPokaDotAnimation = () => {
     });
 };
 
+console.log('Hello World! This is a simple github page based on a code pen https://codepen.io/elecweb/pen/ewgEBp check it out !')
 window.addEventListener("scroll", () => {
     requestAnimationFrame(checkAndPlayPokaDotAnimation);
 });
