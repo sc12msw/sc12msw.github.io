@@ -118,7 +118,7 @@ body {
 }
 
 .content:nth-of-type(1) .poka-dot:nth-of-type(1) {
-    background-image: url(https://ucarecdn.com/15378057-5bf1-46c5-b542-a21d1515ae69/photo1min.jpeg);
+    background-image: url('/assets/img/logos/docker.png');
     width: 130px;
     height: 130px;
     left: 20px;
@@ -155,7 +155,7 @@ body {
     height: 87px;
     right: 20px;
     top: 140px;
-    background-image: url(https://ucarecdn.com/71781fe4-ae56-439a-a1c4-e49a0c56f562/photo2min.jpeg);
+    background-image: url('/assets/img/logos/dropwizard.jpeg');
 }
 
 @media screen and (min-width: 768px) {
@@ -188,7 +188,7 @@ body {
     height: 132px;
     left: -65px;
     bottom: 140px;
-    background-image: url(https://ucarecdn.com/d71ca026-d5a2-4017-a737-35008fe18697/photo3min.jpeg);
+    background-image: url('/assets/img/logos/java.png');
 }
 
 @media screen and (min-width: 768px) {
@@ -216,7 +216,7 @@ body {
 }
 
 .content:nth-of-type(1) .poka-dot:nth-of-type(4) {
-    background-image: url(https://ucarecdn.com/c6d6beb7-57bf-4fe9-9307-7229028b7867/photo4min.jpeg);
+    background-image: url('/assets/img/logos/jenkins.svg');
     width: 200px;
     height: 99px;
     bottom: 100px;
@@ -254,7 +254,7 @@ body {
     height: 95px;
     left: 100px;
     bottom: 0;
-    background-image: url(https://ucarecdn.com/f84a5a4a-7ea6-419f-b351-2828bc01c18f/photo5min.jpeg);
+    background-image: url('/assets/img/logos/k8s.png');
     background-position: 50% 35%;
 }
 
@@ -289,7 +289,7 @@ body {
     height: 129px;
     left: -40px;
     top: 140px;
-    background-image: url(https://ucarecdn.com/ab1c202f-af3f-4d4f-ae6a-47aecfee6d1a/photo6.jpeg);
+    background-image: url('/assets/img/logos/python.png');
 }
 
 @media screen and (min-width: 768px) {
@@ -312,7 +312,7 @@ body {
     height: 90px;
     right: 20px;
     top: 100px;
-    background-image: url(https://ucarecdn.com/de455031-ac7d-480a-a248-b34c33e94ff1/photo7.jpeg);
+    background-image: url('/assets/img/logos/terra.png');
     background-position: 50%;
 }
 
@@ -337,7 +337,7 @@ body {
     height: 127px;
     bottom: 60px;
     left: -150px;
-    background-image: url(https://ucarecdn.com/5356e331-4e49-41b7-8892-cc2c78497b53/photo8.jpeg);
+    background-image: url('/assets/img/logos/vue.png');
 }
 
 @media screen and (min-width: 768px) {
