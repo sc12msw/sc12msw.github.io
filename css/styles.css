@@ -123,6 +123,7 @@ body {
     height: 130px;
     left: 20px;
     top: 60px;
+    background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
@@ -155,6 +156,7 @@ body {
     height: 87px;
     right: 20px;
     top: 140px;
+    background-size: cover;
     background-image: url('/assets/img/logos/dropwizard.jpeg');
 }
 
@@ -218,7 +220,8 @@ body {
 .content:nth-of-type(1) .poka-dot:nth-of-type(4) {
     background-image: url('/assets/img/logos/jenkins.svg');
     width: 200px;
-    height: 99px;
+    height: 200px;
+    background-size: cover;
     bottom: 100px;
     right: -130px;
 }
@@ -251,11 +254,12 @@ body {
 
 .content:nth-of-type(1) .poka-dot:nth-of-type(5) {
     width: 220px;
-    height: 95px;
+    height: 220px;
     left: 100px;
     bottom: 0;
     background-image: url('/assets/img/logos/k8s.png');
     background-position: 50% 35%;
+    background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
@@ -312,6 +316,7 @@ body {
     height: 90px;
     right: 20px;
     top: 100px;
+    background-size: cover;
     background-image: url('/assets/img/logos/terra.png');
     background-position: 50%;
 }
@@ -334,9 +339,10 @@ body {
 
 .content:nth-of-type(2) .poka-dot:nth-of-type(3) {
     width: 300px;
-    height: 127px;
+    height: 300px;
     bottom: 60px;
     left: -150px;
+    background-size: cover;
     background-image: url('/assets/img/logos/vue.png');
 }
 
@@ -360,6 +366,7 @@ body {
     width: 140px;
     height: 140px;
     bottom: 130px;
+    background-size: cover;
     right: -20px;
 }
 
@@ -383,6 +390,7 @@ body {
     height: 135px;
     left: -20px;
     top: 100px;
+    background-size: cover;
     background-image: url(https://ucarecdn.com/fcd660ef-4533-4bb1-956a-ed0f1314e291/photo11.jpeg);
 }
 
