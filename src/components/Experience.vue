@@ -65,12 +65,24 @@
           Developed a mobile application to allow people to clock in and out of the company and various other HR tasks like booking a holiday.
           This allowed for manual tasks such as tracking hours worked to be automated within the company. (Android / Java / Junit)
         </li>
-        <li
-          class="pb-4"
-        >Replaced original static HTML site with self made theme and advanced custom fields CMS. Each country Amina has a distributor has its own site that can be maintained and changed by themselves with an easy to use interface. Since joining and implementing this project Amina has seen its highest ever revenues. (PHP/Wordpress/Jquery/Sass/Gulp)</li>
-        <li
-          class="pb-4"
-        >Automated warehouse product barcoding by creating a plugin that integrated directly into the website. Previously was done manually with excel. Now all barcodes are created automatically and labels printed via the website by any operative with valid access rights, which requires very little training. (Python/Django/PHP/Wordpress/Jquery/Sass/Gulp/ZPL/CUPS)</li>
+        <li class="pb-4">
+          Replaced original static HTML site with self made theme and advanced custom fields CMS. Each country Amina has a distributor has its own site that can be maintained and changed by themselves with an easy to use interface. Since joining and implementing this project Amina has seen its highest ever revenues. (PHP/
+          Wordpress/
+          Jquery/
+          Sass/
+          Gulp)
+        </li>
+        <li class="pb-4">
+          Automated warehouse product barcoding by creating a plugin that integrated directly into the website. Previously was done manually with excel. Now all barcodes are created automatically and labels printed via the website by any operative with valid access rights, which requires very little training. (Python/
+          Django/
+          PHP/
+          Wordpress/
+          Jquery/
+          Sass/
+          Gulp/
+          ZPL/
+          CUPS)
+        </li>
         <li
           class="pb-4"
         >Researching new technology and introducing the automation of tasks wherever possible. Such as using Vagrant to create reusable virtual environments to avoid repetitive configuration and Gulp to automate some scss/js tasks.</li>
@@ -80,9 +92,16 @@
         <li
           class="pb-4"
         >Assisting in IT operations of the business such as offering advice on software best practices such as implementing the use of GSuite rather than locally hosting all backups/emails and helping with GDPR compliance.</li>
-        <li
-          class="pb-4"
-        >Implementing all the hosting and configuration for the web applications. E.g. Setting up firewalls on the host such as whitelisting the companies IP so only they can login to the printing application server. (UFW/Linux/Apache/MySQL/PostGRES/SSL/Certbot/DigitalOcean)</li>
+        <li class="pb-4">
+          Implementing all the hosting and configuration for the web applications. E.g. Setting up firewalls on the host such as whitelisting the companies IP so only they can login to the printing application server. (UFW/
+          Linux/
+          Apache/
+          MySQL/
+          PostGRES/
+          SSL/
+          Certbot/
+          DigitalOcean)
+        </li>
       </ul>
     </div>
     <div class="bg-gray-100 p-3 my-2">
