@@ -1,7 +1,7 @@
 <template>
   <div id="app" class="antialiased svg-background pb-3">
     <div class="flex min-h-screen md:py-8">
-      <div class="max-w-5xl mx-auto bg-white relative flex-1">
+      <div class="md:max-w-5xl max-w-full mx-auto bg-white relative flex-1">
         <Nav>
           <NavItem name="Info" :selected="true">
             <MyInfo name="Matt Watson" title="Full Stack Developer" />
