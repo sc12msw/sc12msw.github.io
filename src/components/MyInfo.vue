@@ -1,9 +1,9 @@
 <template>
-  <div class="flex-col flex justify-center items-center">
+  <section class="flex-col flex justify-center items-center">
     <h1 class="text-3xl">{{ name }}</h1>
-    <h2 class="text-2xl text-green-900 font-bold highlight-font">{{title}}</h2>
+    <h2 class="text-4xl text-green-900 font-bold text-highlight">{{title}}</h2>
     <p class="text-gray-900">Greetings, I'm Matt and this is my web CV!</p>
-  </div>
+  </section>
 </template>
 
 <script>

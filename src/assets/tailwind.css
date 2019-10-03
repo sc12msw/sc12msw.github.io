@@ -5,10 +5,10 @@
 @tailwind utilities;
 
 
-.main-font {
+body {
     font-family: 'Ubuntu', sans-serif;
 }
 
-.highlight-font {
-    font-family: 'Permanent Marker', cursive;
+.text-highlight {
+    font-family: 'East Sea Dokdo', cursive;
 }
