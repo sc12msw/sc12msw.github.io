@@ -3,7 +3,9 @@
     <h1 class="text-3xl">Work Experience</h1>
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">Morrisons Plc</h2>
-      <span class="text-4xl text-green-900 text-highlight">Technology Specialist - Developer</span>
+      <span
+        class="text-4xl text-green-900 text-highlight"
+      >Technology Specialist - Developer - October 2018 - Present</span>
       <ul class="list-disc pl-4">
         <li class="pb-4">
           Developed a
@@ -21,7 +23,7 @@
           >Python Pip package</span> with its own pipeline so every developer on the project can contribute with common tasks that everyone can benefit from not having to reinvent the wheel each time they are using Ocado APIs. I did this by using the Internal Morrisons
           <span
             class="font-bold"
-          >Nexus</span> without having to learn how to deploy and maintain libraries and forcing more well tuned Sonarqube quaility gates.
+          >Nexus</span> so the library would be availble to all developers in the company with the appropriate pip configuration.
         </li>
         <li class="pb-4">
           Developed an AWS lambda to notify staff customers arriving in store click and collect. It allowed users to click a button on the frontend to notify staff instore that they had arrived by using the internal Ocado APIs. This was created in
