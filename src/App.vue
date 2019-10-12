@@ -60,9 +60,6 @@
           <NavItem name="Experience" :selected="false">
             <Experience />
           </NavItem>
-          <NavItem name="Code" :selected="false">
-            <MyInfo name="Matt Watson" title="Full Stack Developer" />
-          </NavItem>
         </Nav>
       </div>
     </div>
