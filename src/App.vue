@@ -77,6 +77,7 @@ import Java from "@/assets/java-logo.png";
 import Python from "@/assets/Python-logo.png";
 import Devops from "@/assets/Devops.png";
 import Vuejs from "@/assets/logo.png";
+import Atlassian from "@/assets/atlassian.jpeg";
 import Experience from "@/components/Experience.vue";
 export default {
   name: "app",
