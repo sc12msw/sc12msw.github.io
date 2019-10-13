@@ -1,10 +1,10 @@
 <template>
-  <div class="flex-row flex my-4 bg-gray-100 py-3  skill-block">
-    <div class="flex-col justify-center items-center p-3 absolute">
-      <img class="logo flex-1" :src="logoUrl" :alt="logoAlt" />
-      <h2 class="text-1xl flex-3 pt-3 text-center">{{title}}</h2>
+  <div class="flex-col flex my-4 bg-gray-100 py-3 skill-block pb-5">
+    <div class="flex-col justify-center items-center flex pb-4 pt-2">
+      <img class="logo" :src="logoUrl" :alt="logoAlt" />
+      <h2 class="text-3xl pt-3 text-center text-bold">{{title}}</h2>
     </div>
-    <p class="text-gray-900 ml-20 my-auto">{{detail}}</p>
+    <p class="text-gray-900 p-6 my-auto">{{detail}}</p>
   </div>
 </template>
 

@@ -32,8 +32,8 @@
                 :logoUrl="Devops"
                 logoAlt="Jenkins Logo"
                 detail="Creation of multibranch pipelines for deploying applications with Jenkins/Docker/Terraform/AWS. 
-                I have set up automated tests with coverage through Sonarqube quaility gates and created deployment pipelines for various applications. These include technologies such as ECS tasks, Lambdas, (ec2/ecs) microservices (Apache/Flask, Dropwizard), static frontends in Cloudfront s3 origin 
-                and currently utilising Kubernetes for non production applications (POCS). Proficient with Linux(Ubuntu/Debian) and Windows operating systems, can comfortably write bash and batch scripts"
+                I have set up automated tests with coverage through Sonarqube quaility gates and created deployment pipelines for various applications. These include technologies such as ECS tasks, Lambdas, (EC2/ECS) microservices (Apache/Flask, Dropwizard), static frontends in CloudFront S3 origin 
+                and currently utilising Kubernetes for non production applications (PoCs). Proficient with Linux (Ubuntu/Debian) and Windows operating systems, can comfortably write Bash and Windows batch scripts"
               />
               <Skill
                 title="WebDev"
@@ -43,10 +43,10 @@
                 facing websites for Morrisons. Technologies used for creating sites include use of WordPress, Django and SPAs using Vuejs. Frontend wise, my experience includes used of Bootstrap, Foundation and Tailwind, some of which is currently implemented on this site."
               />
               <Skill
-                title="Project Management / Software Development Lifecycle"
+                title="Collaboration"
                 :logoUrl="Atlassian"
                 logoAlt="Atlassian Logo"
-                detail="Jira tickets elaborated from architecture solutions, Auto building confluence documents from plant UML and Sphinx. Using smart commits using automatic time tracking with commit message syntax which is prevelant within the team. Negotiation and dealing with project managers, upper management and architects."
+                detail="Jira tickets elaborated from architecture solutions, Auto building confluence documents from plant UML and Sphinx. Using smart commits using automatic time tracking with commit message syntax which is prevelant within the team. Negotiation and dealing with project managers, upper management and architects. Align well with Extreme Programming, have had the best experencies developing with TDD and XP although haven't got much experience using it."
               />
               <div class="flex flex-col bg-gray-100 hacky-minus pl-4">
                 Sites I have created but no longer maintain not guaranteed to be live at time of reading:
@@ -94,7 +94,8 @@ export default {
       Java: Java,
       Python: Python,
       Devops: Devops,
-      Vuejs: Vuejs
+      Vuejs: Vuejs,
+      Atlassian: Atlassian
     };
   }
 };
