@@ -16,38 +16,40 @@
                 title="Java"
                 :logoUrl="Java"
                 logoAlt="Java Logo"
-                detail="One year experience using java to create microservices with Jersey/JUnit (and other various frameworks). 
-              Most recent project was a service to handle swipes from employees clocking into stores at Morrisons. The main purpose of it was the routing 
-              the swipes between legacy system and new third party implementation called reflexis."
+                detail="Used Java to create microservices utilising Jersey/JUnit (and other various frameworks). 
+              Most recent project involved creation of a service to handle swipes from employees clocking into stores at Morrisons. Involved routing inputs from users between a legacy system and a new third party implementation to integrate with."
               />
               <Skill
                 title="Python"
                 :logoUrl="Python"
                 logoAlt="Python Logo"
-                detail="Two years experience using Python to create websites with Django, serverless AWS lambdas and microservices using Flask. 
-                One year experience using Pytest BDD and Nose2 with exensive use of Boto3 testing infrastructure terraform deployments on AWS. 
-                Most recent project was the creation of a Python pip package to host on Morrions private nexus. 
-                That is used to interact with Ocado services so that these common tasks can be reused by various development teams when needing to interact with the third party."
+                detail="Have utilised Python to create websites with Django, serverless AWS Lambdas and microservices using Flask. 
+                Some projects include use of Pytest BDD and Nose2 with exensive use of Boto3 testing infrastructure terraform deployments on AWS. 
+                Creation of a Python pip package to host on Morrions private nexus that is used to interact with Ocado services so that these common tasks can be reused by various development teams when needing to interact with the third party."
               />
               <Skill
                 title="Devops"
                 :logoUrl="Devops"
                 logoAlt="Jenkins Logo"
-                detail="~ One Year experience creating multibranch pipelines for deploying applications with Jenkins/Docker/Terraform/AWS. 
-                Set up automated tests with coverage through sonar qube quaility gates. Created pipelines various applications including but not 
-                limited to, ecs tasks, lambdas, (ec2/ecs) microservices (Apache/Flask, Dropwizard), static frontends to cloudfront s3 origin 
-                and some experence with Kubernetes for non production applications (POCS). Proficient with Linux(Ubuntu/Debian) and Windows operating systems, can comfortably write bash and batch scripts"
+                detail="Creation of multibranch pipelines for deploying applications with Jenkins/Docker/Terraform/AWS. 
+                I have set up automated tests with coverage through Sonarqube quaility gates and created deployment pipelines for various applications. These include technologies such as ECS tasks, Lambdas, (ec2/ecs) microservices (Apache/Flask, Dropwizard), static frontends in Cloudfront s3 origin 
+                and currently utilising Kubernetes for non production applications (POCS). Proficient with Linux(Ubuntu/Debian) and Windows operating systems, can comfortably write bash and batch scripts"
               />
               <Skill
                 title="WebDev"
                 :logoUrl="Vuejs"
                 logoAlt="Vuejs Logo"
-                detail="Two years experience creating various websites for Amina Technologies and some internal business 
-                facing websites for Morrisons. Have created sites using WordPress, Django and SPAs using Vuejs. 
-                Have used Bootstrap 2/3, Foundation and Tailwind (Sass/Postcss). This site is created using Tailwind, Vuejs and hosted on Github pages."
+                detail="I have created various websites for Amina Technologies and some internal business 
+                facing websites for Morrisons. Technologies used for creating sites include use of WordPress, Django and SPAs using Vuejs. Frontend wise, my experience includes used of Bootstrap, Foundation and Tailwind, some of which is currently implemented on this site."
+              />
+              <Skill
+                title="Project Management / Software Development Lifecycle"
+                :logoUrl="Atlassian"
+                logoAlt="Atlassian Logo"
+                detail="Jira tickets elaborated from architecture solutions, Auto building confluence documents from plant UML and Sphinx. Using smart commits using automatic time tracking with commit message syntax which is prevelant within the team. Negotiation and dealing with project managers, upper management and architects."
               />
               <div class="flex flex-col bg-gray-100 hacky-minus pl-4">
-                Sites I have created but no longer maintain not gauranteed to be live at time of reading:
+                Sites I have created but no longer maintain not guaranteed to be live at time of reading:
                 <a
                   class="text-green-900"
                   href="https://uk.aminasound.com"
