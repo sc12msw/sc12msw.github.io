@@ -3,9 +3,9 @@
     <h1 class="text-3xl">Work Experience</h1>
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">Morrisons Plc</h2>
-      <span
-        class="text-4xl text-green-900 text-highlight"
-      >Technology Specialist - Developer - October 2018 - Present</span>
+      <h3
+        class="text-2xl text-green-900 text-highlight"
+      >Technology Specialist - Developer - October 2018 - Present</h3>
       <ul class="list-disc pl-4">
         <li class="pb-4">
           Developed a
@@ -60,9 +60,9 @@
     </div>
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">Amina Technologies Ltd</h2>
-      <span
-        class="text-4xl text-green-900 text-highlight"
-      >Software Developer February 2016 – October 2018</span>
+      <h3
+        class="text-2xl text-green-900 text-highlight"
+      >Software Developer February 2016 – October 2018</h3>
       <ul class="list-disc pl-4">
         <li class="pb-4">
           Developed a mobile application to allow people to clock in and out of the company and various other HR tasks like booking a holiday.
@@ -109,9 +109,9 @@
     </div>
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">Exec Software</h2>
-      <span
-        class="text-4xl text-green-900 text-highlight"
-      >Technical Support Assistant - July 2015 – February 2016</span>
+      <h3
+        class="text-2xl text-green-900 text-highlight"
+      >Technical Support Assistant - July 2015 – February 2016</h3>
       <p
         class="pb-4"
       >Providing technical support, assisting in software development including testing and creating SQL scripts</p>
@@ -119,25 +119,25 @@
 
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">University of Leeds</h2>
-      <span
-        class="text-4xl text-green-900 text-highlight"
-      >Residence Subwarden - September 2013 – July 2014</span>
+      <h3
+        class="text-2xl text-green-900 text-highlight"
+      >Residence Subwarden - September 2013 – July 2014</h3>
       <p
         class="pb-4"
       >Supervising students, acting as an authority figure. Holding responsibility for students</p>
     </div>
     <div class="bg-gray-100 p-3 my-2">
       <h2 class="text-xl">Dytecna Defence Systems</h2>
-      <span class="text-4xl text-green-900 text-highlight">Electro-mechanical Technician - 2012</span>
+      <span class="text-2xl text-green-900 text-highlight">Electro-mechanical Technician - 2012</span>
       <p class="pb-4">Assembling electronic devices for the SAS</p>
     </div>
     <div class="bg-gray-100 p-3 my-2">
       <h2
         class="text-xl"
       >Temp work for Various agencies mainly working at The Disney Store and Toyota</h2>
-      <span
-        class="text-4xl text-green-900 text-highlight"
-      >Warehouse Worker - Various Times in 2009-2011</span>
+      <h3
+        class="text-2xl text-green-900 text-highlight"
+      >Warehouse Worker - Various Times in 2009-2011</h3>
       <p class="pb-4">Organising and picking stock, operating warehouse equipment.</p>
     </div>
   </section>

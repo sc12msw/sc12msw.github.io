@@ -10,5 +10,6 @@ body {
 }
 
 .text-highlight {
-    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Lato', sans-serif;
+    @apply py-4;
 }
