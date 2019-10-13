@@ -16,19 +16,18 @@
                 title="Java"
                 :logoUrl="Java"
                 logoAlt="Java Logo"
-                detail="One year experience using java to create microservices with Jersey/Junit (and other various frameworks). 
-              Most recent project was a service to handle swipes from Employees clocking into stores at Morrisons and routing 
-              them between legacy system and new third party implementation called reflexis. 
-              Have some basic knowledge of Andriod development but nothing in production (POCS/Quick Business Facing apps)"
+                detail="One year experience using java to create microservices with Jersey/JUnit (and other various frameworks). 
+              Most recent project was a service to handle swipes from employees clocking into stores at Morrisons. The main purpose of it was the routing 
+              the swipes between legacy system and new third party implementation called reflexis."
               />
               <Skill
                 title="Python"
                 :logoUrl="Python"
                 logoAlt="Python Logo"
-                detail="Two years experience using Python to create websites with Django, serverless aws lambdas and microservices using Flask. 
+                detail="Two years experience using Python to create websites with Django, serverless AWS lambdas and microservices using Flask. 
                 One year experience using Pytest BDD and Nose2 with exensive use of Boto3 testing infrastructure terraform deployments on AWS. 
                 Most recent project was the creation of a Python pip package to host on Morrions private nexus. 
-                That is used to interact with Ocado services that can be reused by various development teams when needing to interact with the third party."
+                That is used to interact with Ocado services so that these common tasks can be reused by various development teams when needing to interact with the third party."
               />
               <Skill
                 title="Devops"
@@ -36,16 +35,16 @@
                 logoAlt="Jenkins Logo"
                 detail="~ One Year experience creating multibranch pipelines for deploying applications with Jenkins/Docker/Terraform/AWS. 
                 Set up automated tests with coverage through sonar qube quaility gates. Created pipelines various applications including but not 
-                limited to ecs tasks, lambdas, (ec2/ecs) microservices (Apache/Flask, Dropwizard), static frontends to cloudfront s3 origin 
-                and some experence with Kubernetes for non production applications (POCS). Proficient with Linux(Ubuntu?/Debian) and Windows operating systems"
+                limited to, ecs tasks, lambdas, (ec2/ecs) microservices (Apache/Flask, Dropwizard), static frontends to cloudfront s3 origin 
+                and some experence with Kubernetes for non production applications (POCS). Proficient with Linux(Ubuntu/Debian) and Windows operating systems, can comfortably write bash and batch scripts"
               />
               <Skill
                 title="WebDev"
                 :logoUrl="Vuejs"
-                logoAlt="Jenkins Logo"
+                logoAlt="Vuejs Logo"
                 detail="Two years experience creating various websites for Amina Technologies and some internal business 
                 facing websites for Morrisons. Have created sites using WordPress, Django and SPAs using Vuejs. 
-                Have used Bootstrap 2/3, Foundation and Tailwind (Sass/Postcss). This site is created using Tailwind and Vuejs."
+                Have used Bootstrap 2/3, Foundation and Tailwind (Sass/Postcss). This site is created using Tailwind, Vuejs and hosted on Github pages."
               />
               <div class="flex flex-col bg-gray-100 hacky-minus pl-4">
                 Sites I have created but no longer maintain not gauranteed to be live at time of reading:
@@ -53,7 +52,7 @@
                   class="text-green-900"
                   href="https://uk.aminasound.com"
                 >Amina Sound (2017-2018)</a>
-                <a class="text-green-900" href=" https://teibar.com">Teibar (2018)</a>
+                <a class="text-green-900" href="https://teibar.com">Teibar (2018)</a>
               </div>
             </section>
           </NavItem>

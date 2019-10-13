@@ -53,7 +53,8 @@
         </li>
         <li class="pb-4">
           Researching new technology and introducing the automation of tasks wherever possible. Such as creating Microservice/Ecstask boilerplates with multibranch pipelines to
-          help contractors get started quicker with how to follow Morrisons guides and secret storeage.
+          help contractors get started quicker with how to follow Morrisons guides and secret storeage. Also developed a frontend for the internal configuration service to
+          allow non technical project managers create basic project configuration for deployments.
         </li>
       </ul>
     </div>
@@ -65,7 +66,7 @@
       <ul class="list-disc pl-4">
         <li class="pb-4">
           Developed a mobile application to allow people to clock in and out of the company and various other HR tasks like booking a holiday.
-          This allowed for manual tasks such as tracking hours worked to be automated within the company. (Android / Java / Junit)
+          This allowed for manual tasks such as tracking hours worked to be automated within the company. (Android / Java / JUnit)
         </li>
         <li class="pb-4">
           Replaced original static HTML site with self made theme and advanced custom fields CMS. Each country Amina has a distributor has its own site that can be maintained and changed by themselves with an easy to use interface. Since joining and implementing this project Amina has seen its highest ever revenues. (PHP/

@@ -7,7 +7,7 @@
         Bachelor’s degree in Information Technology
         <span class="text-xl font-bold">First Class</span>
       </p>
-      <p>Project: The Leeds Method of Management Antibiotic App (Java Jersey Framework / OjectiveC iOS)</p>
+      <p>Project: The Leeds Method of Management Antibiotic App (Java Jersey Framework / Objective-C iOS)</p>
       <span class="font-bold">2012-2015</span>
     </div>
     <div class="bg-gray-100 p-3 my-2">
