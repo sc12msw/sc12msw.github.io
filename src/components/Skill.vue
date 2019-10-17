@@ -4,7 +4,8 @@
       <img class="logo" :src="logoUrl" :alt="logoAlt" />
       <h2 class="text-2xl pt-1 text-center text-bold">{{title}}</h2>
     </div>
-    <p class="text-gray-900 p-6 my-auto">{{detail}}</p>
+    <span class="text-highlight text-xl text-bold py-3 px-6">{{highlights}}</span>
+    <p class="text-gray-900 px-6 my-auto">{{detail}}</p>
   </div>
 </template>
 
@@ -15,7 +16,8 @@ export default {
     detail: String,
     logoUrl: String,
     logoAlt: String,
-    title: String
+    title: String,
+    highlights: String
   }
 };
 </script>
