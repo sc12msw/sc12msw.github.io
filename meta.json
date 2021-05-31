@@ -46,5 +46,55 @@
             "description": "Docker simplifies and accelerates your workflow, while giving developers the freedom to innovate with their choice of tools, application stacks, and deployment environments for each project.",
             "url": "https://www.docker.com/get-started"
         }
+    ],
+    "skills" : [
+        {
+            "name": "Kotlin",
+            "percentage": 74
+        },
+        {
+            "name": "Java",
+            "percentage": 68
+        },
+        {
+            "name": "Python",
+            "percentage": 71
+        },
+        {
+            "name": "Typescript",
+            "percentage": 56
+        },
+        {
+            "name": "Objective C",
+            "percentage": 29
+        },
+        {
+            "name": "C++",
+            "percentage": 25
+        },
+        {
+            "name": "Git",
+            "percentage": 80
+        },
+        {
+            "name": "Jenkins",
+            "percentage": 75
+        },
+        {
+            "name": "Docker",
+            "percentage": 72
+        },
+        {
+            "name": "AWS",
+            "percentage": 63
+        },
+        {
+            "name": "Kafka",
+            "percentage": 55
+        },
+        {
+            "name": "GCP",
+            "percentage": 35
+        }
     ]
 }
