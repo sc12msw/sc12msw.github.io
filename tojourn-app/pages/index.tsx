@@ -6,10 +6,10 @@ const Home: React.FC = () => {
     return (
         <Container backgroundClass="bg-nordic bg-fixed bg-cover ">
             <Container backgroundClass="bg-black bg-opacity-50">
-                <Header />
-                <Main />
-                <Cards />
-                <Footer />
+            <Header />
+            <Main />
+            <Cards />
+            <Footer />
             </Container>
         </Container>
     );

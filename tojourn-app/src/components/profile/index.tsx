@@ -8,6 +8,7 @@ export const Profile: React.FC = () => {
                 src="/img/profile.jpg"
                 className="rounded-full h-40 w-40 items-center justify-center object-cover mb-10"
             />
+          
             <Skills />
         </div>
     );
