@@ -3,7 +3,7 @@ import React from "react";
 import data from "@public/meta.json";
 
 export const Skills: React.FC = () => (
-    <div className="container mb-5 mx-auto text-white">
+    <div className="container mb-5  text-white">
         {(data?.skills ?? []).map((skill) => (
             <div
                 key={skill.name}
@@ -22,10 +22,10 @@ export const Skills: React.FC = () => (
                 </div>
             </div>
         ))}
-        <p className="text-left text-s mt-5">
+        <p className="text-left text-s mt-5 p-1">
             <b>{"Scale"}</b>
         </p>
-        <ul className="text-left text-xs">
+        <ul className="text-left text-xs p-2">
             <li>{"(0-30) Basic, used a few times"}</li>
             <li>
                 {
