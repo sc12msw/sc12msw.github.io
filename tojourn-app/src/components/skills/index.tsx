@@ -3,11 +3,11 @@ import React from "react";
 import data from "@public/meta.json";
 
 export const Skills: React.FC = () => (
-    <div className="container mb-5  text-white">
+    <div className="container mb-5 px-5 text-white">
         {(data?.skills ?? []).map((skill) => (
             <div
                 key={skill.name}
-                className="shadow bg-gray-800 my-1 text-xs max-w-2xl w-screen grid-flow-col grid grid-cols-4"
+                className="shadow bg-gray-800 my-1 text-xs max-w-2xl grid-flow-col grid grid-cols-4"
             >
                 <div className="col-span-1">
                     <p className="text-left pl-3">{skill.name}</p>
