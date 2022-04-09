@@ -5,8 +5,12 @@ export const Main: React.FC = () => {
         <div>
             <div className="sbg text-center font-light py-5 bg-white mb-8">
                 <div className="bg-white p-5 mx-auto flex flex-col justify-center items-center">
-                    <h3 data-test="main-heading" className="text-3xl mb-8">
-                        Currently Working at
+                    <h3
+                        data-test="main-heading"
+                        className="text-lg mb-8 max-w-xs"
+                    >
+                        Currently employed at Sky Betting & Gaming as a Senior
+                        Software Engineer
                     </h3>
                     <a
                         href="https://www.skybetcareers.com/"
@@ -20,15 +24,16 @@ export const Main: React.FC = () => {
                         />
                         Come join us!
                     </a>
-                    <p className="text-lg mb-3 max-w-xs">
-                        Part of the Transactions squad working with Kotlin /
-                        Typescript / Kubernetes / Chef / AWS / Docker / Jenkins
-                        / Jira / Confluence / Git (bitbucket)
+                    <p className="text-m mb-3 max-w-xs">
+                        Part of the Gaming Data Streaming squad working with
+                        Kotlin / Kafka / Kubernetes / Typescript / Chef / AWS /
+                        Docker / Jenkins / Jira / Confluence / Git (bitbucket)
+                        and lots of other technologies!
                     </p>
                 </div>
             </div>
             <div className="bg-black py-5 mb-8">
-                <div className="bg-white py-8">
+                <div className="bg-white py-8 flex flex-col justify-center items-center">
                     <h3
                         data-test="main-heading"
                         className="text-3xl text-center mb-4 font-bold"
@@ -41,8 +46,10 @@ export const Main: React.FC = () => {
                         href="https://eps.leeds.ac.uk/computing"
                     >
                         <img src="/img/uol.png" className="max-w-xs mb-4" />
-                        Bachelor of Science with Honours Class 1 in Information
-                        Technology
+                        <p className="text-lg mb-3 max-w-xs text-center">
+                            Bachelor of Science Honours Class 1 <br></br>in{" "}
+                            <br></br> Information Technology
+                        </p>
                     </a>
                 </div>
             </div>
