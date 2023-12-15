@@ -2,14 +2,30 @@
     "name": "tojourn-app",
     "info": [
         {
-            "name": "Sky Betting & Gaming",
-            "subtitle": "Software Engineer - Transactions",
-            "sub2": "/ Sept 2021 - April 2022",
+            "name": "10x Banking",
+            "subtitle": "Senior Software Engineer - Identity & Oauth",
+            "sub2": "/ October 2022 - Present",
             "list": [
+                "Part of a SCA (Strong Customer Authentication) and Oauth Token management feature team. Providing high risk login flows and JWT manament to over 2 million customers with 99.9999% (four nines) availability. We used Java 17 Springboot microservices with Postgres (Aurora), Kafka and Redis (Elasticache) on AWS EKS for Kubernetes. CI/CD using Jenkins and Bitbucket.",
+                "Created new team tooling by creating local setup scripts with docker compose to improve team productivity. Apps could be started locally with mocked dependencies for local testing reducing the feedback cycle time by a large margin",
+                "Migrated a extremely high throughput token management service from a shared elasticache redis to a dedicated clustered redis cluster provisioning with terraform. Taking the load off other services as well as improving performance of our own. Also implemented secondary indexing and clearing of such indexes via keyspace notifications on the cluster to ensure the memory useage was effcient as possible, reducing the need for larger clusters and saving money as we now needed a much smaller machine to run the cache.",
+                "Created a new way of templating runbooks for the company using backstage which I demonstrated to the business and helped the devops team set up. We also integrated the jenkins and score cards plugin to increase the productivity of the developer portal",
+                "Worked directly with Clients such as Chase Bank UK (JP Morgan) for new feature requests and support for issues when it came from migration existing mobile devices from another third party security platform. Working with them directly made sure we got the requirements exactly right and improved the relationship with the client",
+                "Part of the intial team upgrading internal libraries in preparatation for the Spring Boot 3.1 upgrade (from 2.7) which involved lots of cross team coordination and a solid review process. This created a streamlined upgrade process sharing the knowledge with other teams with the problems we faced during the upgrade",
+                "Introduced on call processes such as a captains log where previous incidents are logged in an easy to find place to help solve future issues if they happen again in the future and sharing knowledge of incident processes with other engineers on call improving productivity of handovers and reducing repeat incidents",
+                "Built on my knowledge, from skybet, of observabilty / dashboards / metrics / alerting to improve the overall ability to spot and support issues faster and before they cause a problem. Using such tools as new relic custom parameters, custom dashboards and alerts. This helped reduce the engineer toil of trying figure out what caused particular errors and get an answer back to client as fast as possible as well as diagnosing and fixing issues. Many of the ideas we used at skybet I have since shared here and are being used by many teams such as graph club where we look at our dashboard each week to look for errors and odd patterens to improve our dashboards along with catching any issues before they become a potential problem, providing a much better experience for the customer."
+            ]
+        },
+        {
+            "name": "Sky Betting & Gaming",
+            "subtitle": "Software Engineer - Transactions / Senior Software Engineer - Gaming",
+            "sub2": "/ Sept 2021 - Octover 2022",
+            "list": [
+                "Implemented Kotlin based gaming recommendation engine similar to the front page of netflix. We were dubbed the 'Notflix' team, we improved the customer retention of players in the gaming side of skybet with the new feature",
                 "Lead the way in rewriting older legacy chef provisioned typescript applications on node 10 to kubernetes provisioned containerised applications in Kotlin. These applications used Kafka and Redis technologies for message queuing and in memory data storage. Increased preformance during the rewrite from 5k messages per second to 35k messages per second.", 
                 "Developed many of the features for the Build a Bet product on Skybet. This involved a backend Typescript API as well as changes to React components on the front end of bet slip. Assisted other teams in integrating with our APIs providing support and documentation", 
                 "Management of the deployments of applications to in-house Kubernetes cluster and chef provisioned virual machines.",
-                "Actively 'On Call' providing support for the Tranactions application stack in and out of office hours. Managing metrics/alerts of these applications using Alermanager/Pagerduty/Grafana/Prometheus/Elastic(Kibana)"
+                "Actively 'On Call' providing support for the Tranactions application stack in and out of office hours. Managing metrics/alerts of these applications using Alertmanager/Pagerduty/Grafana/Prometheus/Elastic(Kibana)"
             ]
         },
         {
@@ -69,31 +85,23 @@
     "skills" : [
         {
             "name": "Kotlin",
-            "percentage": 65
+            "percentage": 70
         },
         {
             "name": "Java",
-            "percentage": 60
+            "percentage": 85
         },
         {
             "name": "Python",
-            "percentage": 60
-        },
-        {
-            "name": "Typescript",
             "percentage": 55
         },
         {
-            "name": "Objective C",
-            "percentage": 29
-        },
-        {
-            "name": "C++",
-            "percentage": 25
+            "name": "Typescript",
+            "percentage": 65
         },
         {
             "name": "Git",
-            "percentage": 85
+            "percentage": 90
         },
         {
             "name": "Jenkins",
@@ -101,19 +109,15 @@
         },
         {
             "name": "Docker",
-            "percentage": 72
+            "percentage": 85
         },
         {
             "name": "AWS",
-            "percentage": 63
+            "percentage": 75
         },
         {
             "name": "Kafka",
             "percentage": 70
-        },
-        {
-            "name": "GCP",
-            "percentage": 35
         }
     ]
 }
