@@ -4,6 +4,8 @@ import data from "@public/meta.json";
 
 export const Skills: React.FC = () => (
     <div className="container mb-5 px-5 text-white">
+        <h3 className="mb-4 center"> Skills </h3>
+        <div className="container mb-5">
         {(data?.skills ?? []).map((skill) => (
             <div
                 key={skill.name}
@@ -22,9 +24,10 @@ export const Skills: React.FC = () => (
                 </div>
             </div>
         ))}
-        <p className="text-left text-s mt-5 p-1">
-            <b>{"Scale"}</b>
-        </p>
+        </div>
+        <h3 className="mb-2">
+            {"Scale"}
+        </h3>
         <ul className="text-left text-xs p-2">
             <li>{"(0-30) Basic, used a few times"}</li>
             <li>

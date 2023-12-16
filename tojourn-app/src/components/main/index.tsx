@@ -1,5 +1,13 @@
 import React from "react";
 
+const styles = {
+    mwLogo : {
+        maxWidth: '200px',
+        marginBottom: '20px',
+        margin: 'auto'
+    }
+}
+
 export const Main: React.FC = () => {
     return (
         <div>
@@ -20,12 +28,11 @@ export const Main: React.FC = () => {
                         {" "}
                         <img
                             src="/img/tenx.svg"
-
-                            className="max-w-xs mb-8"
+                            style={styles.mwLogo}
                         />
                         Read my article featured on 10x's website!
                     </a>
-                    <p className="text-m mb-3 max-w-xs">
+                    <p className="text-m text-justify mb-3 max-w-xs">
                     Part of a SCA (Strong Customer Authentication) and Oauth Token management feature team. 
                     Providing high risk login flows and JWT manament to over 2 million customers with 99.9999% (four nines) availability. 
                     We used Java 17 Springboot microservices with Postgres (Aurora), Kafka and Redis (Elasticache) on AWS EKS for Kubernetes. 
@@ -46,7 +53,7 @@ export const Main: React.FC = () => {
                         className="pb-1 items-center justify-center flex flex-col text-m "
                         href="https://eps.leeds.ac.uk/computing"
                     >
-                        <img src="/img/uol.png" className="max-w-xs mb-4" />
+                        <img src="/img/uol.png" style={styles.mwLogo} />
                         <p className="text-lg mb-3 max-w-xs text-center">
                             Bachelor of Science Honours Class 1 <br></br>in{" "}
                             <br></br> Information Technology
