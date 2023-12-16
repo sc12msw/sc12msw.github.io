@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Container, Header, Main, Footer, Cards } from "@components";
+import { Container, Header, Main, Footer, Cards, Skills } from "@components";
 
 const Home: React.FC = () => {
     return (
@@ -9,6 +9,7 @@ const Home: React.FC = () => {
                 <Header />
                 <Main />
                 <Cards />
+                <Skills />
                 <Footer />
             </Container>
         </Container>
