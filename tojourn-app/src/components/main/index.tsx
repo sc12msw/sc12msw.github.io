@@ -34,7 +34,7 @@ export const Main: React.FC = () => {
                     </a>
                     <p className="text-m text-justify mb-3 max-w-xs">
                     Part of a SCA (Strong Customer Authentication) and Oauth Token management feature team. 
-                    Providing high risk login flows and JWT manament to over 2 million customers with 99.9999% (four nines) availability. 
+                    Providing high risk login flows and JWT management to over 2 million customers with 99.99% (four nines) availability. 
                     We used Java 17 Springboot microservices with Postgres (Aurora), Kafka and Redis (Elasticache) on AWS EKS for Kubernetes. 
                     CI/CD using Jenkins and Bitbucket.
                     </p>
