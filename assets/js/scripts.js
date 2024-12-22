@@ -18,7 +18,7 @@ fetch('/assets/data/teams.json')
                     `).join('')}
                 </ul>
                 <div class="dropdown">
-                    <button onclick="toggleDropdown(this)">Show Counters</button>
+                    <button class="button" onclick="toggleDropdown(this)">Show Counters</button>
                     <div class="dropdown-content">
                         ${team.counters.map(counter => `
                             <h3>${counter.name}</h3>
@@ -32,7 +32,7 @@ fetch('/assets/data/teams.json')
                                 `).join('')}
                             </ul>
                             <div class="video">
-                                <a href="${counter.youtube}" target="_blank" class="button">Watch on YouTube</a>
+                                <a href="${counter.youtube}" target="_blank" class="button button-link">Watch on YouTube</a>
                             </div>
                         `).join('')}
                     </div>
@@ -42,12 +42,14 @@ fetch('/assets/data/teams.json')
         });
     });
 
+// Function to enable sound and set an interval to repeat it every 5 minutes
 function enableSound() {
     document.getElementById('jawasound').play();
     setInterval(playSound, 300000); // 300000 milliseconds = 5 minutes
     document.getElementById('enable-sound').style.display = 'none'; // Hide the button after enabling sound
 }
 
+// Function to play sound
 function playSound() {
     document.getElementById('jawasound').play();
 }

@@ -6,11 +6,11 @@
 $padding: 1em;
 $banner-size: 200px;
 $avatar-size: 50px;
-$dark-blue: hsl(203.18deg 33.85% 25.49%);
-$black: hsl(0deg 0% 17.65%);
-$amber: hsl(35.21deg 48.59% 48.82%);
-$light-blue: hsl(195deg 20.87% 45.1%);
-$brown: hsl(30deg 42.47% 28.63%);
+$dark-blue: #29507d; // Converted from hsl(203.18deg 33.85% 25.49%)
+$black: #2d2d2d; // Converted from hsl(0deg 0% 17.65%)
+$amber: #c9913e; // Converted from hsl(35.21deg 48.59% 48.82%)
+$light-blue: #728999; // Converted from hsl(195deg 20.87% 45.1%)
+$brown: #6b402f; // Converted from hsl(30deg 42.47% 28.63%)
 $background-color: $black;
 $header-background: $dark-blue;
 $text-color: $amber;
@@ -126,7 +126,7 @@ header {
 .video {
     margin-top: 1em;
 
-    .button {
+    .button, .button-link {
         background-color: $button-background;
         color: $text-color;
         padding: 0.5em 1em;
@@ -136,9 +136,28 @@ header {
         text-decoration: none;
         display: inline-block;
         cursor: pointer;
-
-        &:hover {
-            background-color: $button-hover-background;
-        }
     }
+
+    .button-link:hover, .button:hover {
+        background-color: $button-hover-background;
+    }
+}
+
+.utinni {
+    display: block;
+    width: 300px;
+    margin: 1em auto;
+    background-color: $button-background;
+    color: $text-color;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: $button-hover-background;
+}
+
+.utinni:hover, .utinni:hover {
+    background-color: $button-hover-background;
 }
