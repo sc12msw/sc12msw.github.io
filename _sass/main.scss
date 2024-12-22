@@ -126,7 +126,7 @@ header {
 .video {
     margin-top: 1em;
 
-    .button {
+    .button, .button-link {
         background-color: $button-background;
         color: $text-color;
         padding: 0.5em 1em;
@@ -136,9 +136,28 @@ header {
         text-decoration: none;
         display: inline-block;
         cursor: pointer;
+    }
 
-        &:hover {
-            background-color: $button-hover-background;
-        }
+    .button-link:hover, .button:hover {
+        background-color: $button-hover-background;
     }
 }
+
+.utinni {
+    display: block;
+    width: 300px;
+    margin: 1em auto;
+    background-color: $button-background;
+    color: $text-color;
+    padding: 0.5em 1em;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    background-color: $button-hover-background;
+}
+
+ .utinni:hover, .utinni:hover {
+        background-color: $button-hover-background;
+    }
