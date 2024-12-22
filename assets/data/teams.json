@@ -1,0 +1,50 @@
+{
+  "teams": [
+    {
+      "name": "General Skywalker",
+      "info": "This team is weak to teams that counter a lot due to everything hitting Anakin every turn.",
+      "characters": [
+        {"name": "General Skywalker", "avatar": "/assets/images/avatars/gas.webp", "link": "https://swgoh.gg/characters/general-skywalker/"},
+        {"name": "CT-5555 Fives", "avatar": "/assets/images/avatars/ct-5555.webp", "link": "https://swgoh.gg/characters/ct-5555-fives/"},
+        {"name": "CT-7567 Rex", "avatar": "/assets/images/avatars/ct-7567.webp", "link": "https://swgoh.gg/characters/ct-7567-rex/"},
+        {"name": "ARC Trooper", "avatar": "/assets/images/avatars/arc.webp", "link": "https://swgoh.gg/characters/arc-trooper/"},
+        {"name": "CT-21-0408 Echo", "avatar": "/assets/images/avatars/CT-21-0408.webp", "link": "https://swgoh.gg/characters/ct-21-0408-echo/"}
+      ],
+      "counters": [
+        {
+          "name": "Gar Saxon and friends",
+          "info": "This usually works with Gar Saxon (ZETA IS REQUIRED) at R5 vs R8 Anakin",
+          "characters": [
+            {"name": "Gar Saxon", "avatar": "/assets/images/avatars/garsaxon.webp", "link": "https://swgoh.gg/characters/gar-saxon/"},
+            {"name": "Imperial Super Commando", "avatar": "/assets/images/avatars/isc.webp", "link": "https://swgoh.gg/characters/imperial-super-commando/"},
+            {"name": "Admiral Piett", "avatar": "/assets/images/avatars/piett.webp", "link": "https://swgoh.gg/characters/admiral-piett/"},
+            {"name": "Any Empire", "avatar": "/assets/images/avatars/empire.jpeg", "link": "https://swgoh.gg/characters/?cat=affiliation_empire"},
+            {"name": "Any Empire", "avatar": "/assets/images/avatars/empire.jpeg", "link": "https://swgoh.gg/characters/?cat=affiliation_empire"}
+          ],
+          "youtube": "https://www.youtube.com/embed/pLXaq-l4eD0"
+        }
+      ]
+    },
+    {
+      "name": "Captain Phasma (with or without omicron)",
+      "info": "Anything with good health recovery and can hit hard.",
+      "characters": [
+        {"name": "Captain Phasma", "avatar": "/assets/images/avatars/phasma.webp", "link": "https://swgoh.gg/units/captain-phasma/"},
+        {"name": "Any first order", "avatar": "/assets/images/avatars/fo.webp", "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"},
+        {"name": "Any first order", "avatar": "/assets/images/avatars/fo.webp", "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"},
+        {"name": "Any first order", "avatar": "/assets/images/avatars/fo.webp", "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"},
+        {"name": "Any first order", "avatar": "/assets/images/avatars/fo.webp", "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"}
+      ],
+      "counters": [
+        {
+          "name": "Ahsoka Tano (Fulcrum) With Omicron",
+          "info": "The omicron is required for this to work, but she will do it solo!",
+          "characters": [
+            {"name": "Ahsoka Tano (Fulcrum)", "avatar": "/assets/images/avatars/fulcrom.webp", "link": "https://swgoh.gg/units/ahsoka-tano-fulcrum/"}
+          ],
+          "youtube": "https://www.youtube.com/embed/Cg4-dJ9dfjM?si=uxJEWvY75cS_uncN"
+        }
+      ]
+    }
+  ]
+}
