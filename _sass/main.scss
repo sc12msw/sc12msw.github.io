@@ -1,12 +1,12 @@
-
 @font-face {
-font-family: 'Star Wars';
-src: url('/assets/fonts/sw.ttf') format('truetype');
+    font-family: 'Star Wars';
+    src: url('/assets/fonts/sw.ttf') format('truetype');
 }
+
 $padding: 1em;
 $banner-size: 200px;
 $avatar-size: 50px;
-$dark-blue : hsl(203.18deg 33.85% 25.49%);
+$dark-blue: hsl(203.18deg 33.85% 25.49%);
 $black: hsl(0deg 0% 17.65%);
 $amber: hsl(35.21deg 48.59% 48.82%);
 $light-blue: hsl(195deg 20.87% 45.1%);
@@ -14,8 +14,11 @@ $brown: hsl(30deg 42.47% 28.63%);
 $background-color: $black;
 $header-background: $dark-blue;
 $text-color: $amber;
+$button-background: $header-background;
+$button-hover-background: $brown;
 $sw-font: 'Star Wars', Arial, sans-serif;
 $font-stack: Arial, sans-serif;
+
 body {
     font-family: $font-stack;
     background-color: $background-color;
@@ -24,16 +27,19 @@ body {
     padding: 0;
     font-weight: lighter;
 }
-h1{
-font-weight: lighter;
- font-size: 4em;
- font-family: $font-stack;
+
+h1 {
+    font-weight: lighter;
+    font-size: 4em;
+    font-family: $font-stack;
 }
+
 h2 {
- font-size: 2em;
- font-weight: lighter;
- font-family: $sw-font;
+    font-size: 2em;
+    font-weight: lighter;
+    font-family: $sw-font;
 }
+
 a {
     text-decoration: none;
     color: inherit;
@@ -53,13 +59,13 @@ header {
     }
 
     .banner {
-       height: $banner-size;
-       width: $banner-size;
-       background-image: url('/assets/images/banner.png'); /* Replace with Jawa image URL */
-       background-size: cover;
-       background-position: center;
-       margin: 0 auto;
-       border-radius: 50%;
+        height: $banner-size;
+        width: $banner-size;
+        background-image: url('/assets/images/banner.png'); /* Replace with Jawa image URL */
+        background-size: cover;
+        background-position: center;
+        margin: 0 auto;
+        border-radius: 50%;
     }
 }
 
@@ -120,8 +126,19 @@ header {
 .video {
     margin-top: 1em;
 
-    iframe {
-        width: 100%;
-        height: 315px;
+    .button {
+        background-color: $button-background;
+        color: $text-color;
+        padding: 0.5em 1em;
+        border: none;
+        border-radius: 5px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+
+        &:hover {
+            background-color: $button-hover-background;
+        }
     }
 }
