@@ -1,0 +1,38 @@
+{
+  "teams": [
+    {
+      "name": "Jedi Knight Revan",
+      "characters": [
+        {"name": "Jedi Knight Revan", "avatar": "/img/jawa.webp"},
+        {"name": "Bastila Shan", "avatar": "/img/jawa.webp"},
+        {"name": "Jolee Bindo", "avatar": "/img/jawa.webp"},
+        {"name": "Grand Master Yoda", "avatar": "/img/jawa.webp"},
+        {"name": "General Kenobi", "avatar": "/img/jawa.webp"}
+      ],
+      "counters": [
+        {
+          "name": "Darth Revan",
+          "characters": [
+            {"name": "Darth Revan", "avatar": "/img/jawa.webp"},
+            {"name": "Bastila Shan (Fallen)", "avatar": "/img/jawa.webp"},
+            {"name": "Darth Malak", "avatar": "/img/jawa.webp"},
+            {"name": "HK-47", "avatar": "/img/jawa.webp"},
+            {"name": "Sith Trooper", "avatar": "/img/jawa.webp"}
+          ],
+          "youtube": "https://www.youtube.com/watch?v=pLXaq-l4eD0&t=6s"
+        },
+        {
+          "name": "General Grievous",
+          "characters": [
+            {"name": "General Grievous", "avatar": "/img/jawa.webp"},
+            {"name": "B2 Super Battle Droid", "avatar": "/img/jawa.webp"},
+            {"name": "IG-100 MagnaGuard", "avatar": "/img/jawa.webp"},
+            {"name": "Droideka", "avatar": "/img/jawa.webp"},
+            {"name": "Nute Gunray", "avatar": "/img/jawa.webp"}
+          ],
+          "youtube": "https://www.youtube.com/watch?v=pLXaq-l4eD0&t=6s"
+        }
+      ]
+    }
+  ]
+}
