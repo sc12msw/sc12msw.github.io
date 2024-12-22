@@ -42,14 +42,15 @@ fetch('/assets/data/teams.json')
         });
     });
 
-// Play the sound and set an interval to repeat it every 5 minutes (300,000 milliseconds)
+function enableSound() {
+    document.getElementById('jawasound').play();
+    setInterval(playSound, 300000); // 300000 milliseconds = 5 minutes
+    document.getElementById('enable-sound').style.display = 'none'; // Hide the button after enabling sound
+}
+
 function playSound() {
     document.getElementById('jawasound').play();
 }
-
-// Play the sound immediately and then set the interval
-playSound();
-setInterval(playSound, 300000); // 300000 milliseconds = 5 minutes
 
 // Function to toggle dropdown content
 function toggleDropdown(button) {
