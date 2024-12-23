@@ -1,6 +1,213 @@
 {
   "teams": [
     {
+      "name": "Geonosians",
+      "info": "Led by Geonosian Brood Alpha, this team excels in swarming enemies with mass assists and health regeneration.  Always try to take out the weakest because they share their health and protection.",
+      "characters": [
+        {
+          "name": "Geonosian Brood Alpha",
+          "avatar": "/assets/images/avatars/geonosian-brood-alpha.webp",
+          "link": "https://swgoh.gg/characters/geonosian-brood-alpha/"
+        },
+        {
+          "name": "Geonosian Soldier",
+          "avatar": "/assets/images/avatars/geonosian-soldier.webp",
+          "link": "https://swgoh.gg/characters/geonosian-soldier/"
+        },
+        {
+          "name": "Geonosian Spy",
+          "avatar": "/assets/images/avatars/geonosian-spy.webp",
+          "link": "https://swgoh.gg/characters/geonosian-spy/"
+        },
+        {
+          "name": "Poggle the Lesser",
+          "avatar": "/assets/images/avatars/poggle-the-lesser.webp",
+          "link": "https://swgoh.gg/characters/poggle-the-lesser/"
+        },
+        {
+          "name": "Sun Fac",
+          "avatar": "/assets/images/avatars/sun-fac.webp",
+          "link": "https://swgoh.gg/characters/sun-fac/"
+        }
+      ],
+      "counters": [
+
+        {
+          "name": "Padmé Amidala",
+          "info": "This team can counter the Geonosians by using their strong defensive capabilities and burst damage.",
+          "characters": [
+            {
+              "name": "Padmé Amidala",
+              "avatar": "/assets/images/avatars/padme-amidala.webp",
+              "link": "https://swgoh.gg/characters/padme-amidala/"
+            },
+            {
+              "name": "Jedi Knight Anakin",
+              "avatar": "/assets/images/avatars/jedi-knight-anakin.webp",
+              "link": "https://swgoh.gg/characters/jedi-knight-anakin/"
+            },
+            {
+              "name": "Ahsoka Tano (Snips)",
+              "avatar": "/assets/images/avatars/snips.webp",
+              "link": "https://swgoh.gg/units/ahsoka-tano-snips/"
+            },
+            {
+              "name": "General Kenobi",
+              "avatar": "/assets/images/avatars/general-kenobi.webp",
+              "link": "https://swgoh.gg/characters/general-kenobi/"
+            },
+            {
+              "name": "C-3PO",
+              "avatar": "/assets/images/avatars/c-3po.webp",
+              "link": "https://swgoh.gg/characters/c-3po/"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
+        },
+        {
+          "name": "Darth Vader",
+          "info": "Vader at high relics can solo but you need to have very good speed mods on him. Usually best to throw some sith / empire in there to. Mara and palp are a good combo to add to this.",
+          "characters": [
+            {
+              "name": "Darth Vader",
+              "avatar": "/assets/images/avatars/darth-vader.webp",
+              "link": "https://swgoh.gg/characters/darth-vader/"
+            },
+            {
+              "name": "Any Empire",
+              "avatar": "/assets/images/avatars/empire.jpeg",
+              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
+            },
+            {
+              "name": "Any Empire",
+              "avatar": "/assets/images/avatars/empire.jpeg",
+              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
+            },
+            {
+              "name": "Any Empire",
+              "avatar": "/assets/images/avatars/empire.jpeg",
+              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
+            },
+            {
+              "name": "Any Empire",
+              "avatar": "/assets/images/avatars/empire.jpeg",
+              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
+        },
+        {
+          "name": "Sith Triumvirate",
+          "info": "This team can counter the Geonosians by utilizing their anti-swarm capabilities and debuffs.",
+          "characters": [
+            {
+              "name": "Darth Traya",
+              "avatar": "/assets/images/avatars/darth-traya.webp",
+              "link": "https://swgoh.gg/characters/darth-traya/"
+            },
+            {
+              "name": "Darth Nihilus",
+              "avatar": "/assets/images/avatars/darth-nihilus.webp",
+              "link": "https://swgoh.gg/characters/darth-nihilus/"
+            },
+            {
+              "name": "Darth Sion",
+              "avatar": "/assets/images/avatars/darth-sion.webp",
+              "link": "https://swgoh.gg/characters/darth-sion/"
+            },
+            {
+              "name": "Sith Marauder",
+              "avatar": "/assets/images/avatars/sith-marauder.webp",
+              "link": "https://swgoh.gg/characters/sith-marauder/"
+            },
+            {
+              "name": "Sith Assassin",
+              "avatar": "/assets/images/avatars/sith-assassin.webp",
+              "link": "https://swgoh.gg/characters/sith-assassin/"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch?v=example7"
+        },
+        {
+          "name": "Jawa Team",
+          "info": "(THIS ONLY WORKS WITH Cheif Nebit OMICRON), Jawa teams rely on speed, scavenger needs to stay alive at all costs. Yeah it ALL depends on scavenger speed. If scav does not go first you will lose vs pogglecron. If you go first and stealth you win 100%. Use stealth and taunt mechanics to do this. This team can counter the high damage output of the Imperial Troopers using thermal detonators. However you need to have lots of speed on your jawas to ensure scavenger gets stealth.",
+          "characters": [
+            {
+              "name": "Chief Nebit",
+              "avatar": "/assets/images/avatars/chief-nebit.webp",
+              "link": "https://swgoh.gg/characters/chief-nebit/"
+            },
+            {
+              "name": "Jawa Engineer",
+              "avatar": "/assets/images/avatars/jawa-engineer.webp",
+              "link": "https://swgoh.gg/characters/jawa-engineer/"
+            },
+            {
+              "name": "Jawa Scavenger",
+              "avatar": "/assets/images/avatars/jawa-scavenger.webp",
+              "link": "https://swgoh.gg/characters/jawa-scavenger/"
+            },
+            {
+              "name": "Dathcha",
+              "avatar": "/assets/images/avatars/dathcha.webp",
+              "link": "https://swgoh.gg/characters/dathcha/"
+            },
+            {
+              "name": "Jawa",
+              "avatar": "/assets/images/avatars/jawa.webp",
+              "link": "https://swgoh.gg/characters/jawa/"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
+        }
+      ]
+    },
+    {
+      "name": "Captain Phasma (with or without omicron)",
+      "info": "Anything with good health recovery and can hit hard.",
+      "characters": [
+        {
+          "name": "Captain Phasma",
+          "avatar": "/assets/images/avatars/phasma.webp",
+          "link": "https://swgoh.gg/units/captain-phasma/"
+        },
+        {
+          "name": "Any first order",
+          "avatar": "/assets/images/avatars/fo.webp",
+          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
+        },
+        {
+          "name": "Any first order",
+          "avatar": "/assets/images/avatars/fo.webp",
+          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
+        },
+        {
+          "name": "Any first order",
+          "avatar": "/assets/images/avatars/fo.webp",
+          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
+        },
+        {
+          "name": "Any first order",
+          "avatar": "/assets/images/avatars/fo.webp",
+          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
+        }
+      ],
+      "counters": [
+        {
+          "name": "Ahsoka Tano (Fulcrum) With Omicron",
+          "info": "The omicron is required for this to work, but she will do it solo!",
+          "characters": [
+            {
+              "name": "Ahsoka Tano (Fulcrum)",
+              "avatar": "/assets/images/avatars/fulcrum.webp",
+              "link": "https://swgoh.gg/units/ahsoka-tano-fulcrum/"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch/Cg4-dJ9dfjM?si=uxJEWvY75cS_uncN"
+        }
+      ]
+    },
+    {
       "name": "General Skywalker",
       "info": "This team is weak to teams that counter a lot due to everything hitting Anakin every turn.",
       "characters": [
@@ -66,51 +273,6 @@
       ]
     },
     {
-      "name": "Captain Phasma (with or without omicron)",
-      "info": "Anything with good health recovery and can hit hard.",
-      "characters": [
-        {
-          "name": "Captain Phasma",
-          "avatar": "/assets/images/avatars/phasma.webp",
-          "link": "https://swgoh.gg/units/captain-phasma/"
-        },
-        {
-          "name": "Any first order",
-          "avatar": "/assets/images/avatars/fo.webp",
-          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
-        },
-        {
-          "name": "Any first order",
-          "avatar": "/assets/images/avatars/fo.webp",
-          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
-        },
-        {
-          "name": "Any first order",
-          "avatar": "/assets/images/avatars/fo.webp",
-          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
-        },
-        {
-          "name": "Any first order",
-          "avatar": "/assets/images/avatars/fo.webp",
-          "link": "https://swgoh.gg/characters/?cat=affiliation_firstorder"
-        }
-      ],
-      "counters": [
-        {
-          "name": "Ahsoka Tano (Fulcrum) With Omicron",
-          "info": "The omicron is required for this to work, but she will do it solo!",
-          "characters": [
-            {
-              "name": "Ahsoka Tano (Fulcrum)",
-              "avatar": "/assets/images/avatars/fulcrum.webp",
-              "link": "https://swgoh.gg/units/ahsoka-tano-fulcrum/"
-            }
-          ],
-          "youtube": "https://www.youtube.com/watch/Cg4-dJ9dfjM?si=uxJEWvY75cS_uncN"
-        }
-      ]
-    },
-    {
       "name": "Imperial Troopers",
       "info": "Led by General Veers, this team excels in turn meter manipulation and damage output.",
       "characters": [
@@ -169,135 +331,6 @@
               "name": "Jawa",
               "avatar": "/assets/images/avatars/jawa.webp",
               "link": "https://swgoh.gg/characters/jawa/"
-            }
-          ],
-          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
-        }
-      ]
-    },
-    {
-      "name": "Geonosians",
-      "info": "Led by Geonosian Brood Alpha, this team excels in swarming enemies with mass assists and health regeneration.  Always try to take out the weakest because they share their health and protection.",
-      "characters": [
-        {
-          "name": "Geonosian Brood Alpha",
-          "avatar": "/assets/images/avatars/geonosian-brood-alpha.webp",
-          "link": "https://swgoh.gg/characters/geonosian-brood-alpha/"
-        },
-        {
-          "name": "Geonosian Soldier",
-          "avatar": "/assets/images/avatars/geonosian-soldier.webp",
-          "link": "https://swgoh.gg/characters/geonosian-soldier/"
-        },
-        {
-          "name": "Geonosian Spy",
-          "avatar": "/assets/images/avatars/geonosian-spy.webp",
-          "link": "https://swgoh.gg/characters/geonosian-spy/"
-        },
-        {
-          "name": "Poggle the Lesser",
-          "avatar": "/assets/images/avatars/poggle-the-lesser.webp",
-          "link": "https://swgoh.gg/characters/poggle-the-lesser/"
-        },
-        {
-          "name": "Sun Fac",
-          "avatar": "/assets/images/avatars/sun-fac.webp",
-          "link": "https://swgoh.gg/characters/sun-fac/"
-        }
-      ],
-      "counters": [
-        {
-          "name": "Jawa Team",
-          "info": "Jawa teams rely on speed, scavenger needs to stay alive at all costs. Use stealth and taunt mechanics to do this. This team can counter the high damage output of the Imperial Troopers using thermal detonators. However you need to have lots of speed on your jawas to ensure scavenger gets stealth.",
-          "characters": [
-            {
-              "name": "Chief Nebit",
-              "avatar": "/assets/images/avatars/chief-nebit.webp",
-              "link": "https://swgoh.gg/characters/chief-nebit/"
-            },
-            {
-              "name": "Jawa Engineer",
-              "avatar": "/assets/images/avatars/jawa-engineer.webp",
-              "link": "https://swgoh.gg/characters/jawa-engineer/"
-            },
-            {
-              "name": "Jawa Scavenger",
-              "avatar": "/assets/images/avatars/jawa-scavenger.webp",
-              "link": "https://swgoh.gg/characters/jawa-scavenger/"
-            },
-            {
-              "name": "Dathcha",
-              "avatar": "/assets/images/avatars/dathcha.webp",
-              "link": "https://swgoh.gg/characters/dathcha/"
-            },
-            {
-              "name": "Jawa",
-              "avatar": "/assets/images/avatars/jawa.webp",
-              "link": "https://swgoh.gg/characters/jawa/"
-            }
-          ],
-          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
-        },
-        {
-          "name": "Padmé Amidala",
-          "info": "This team can counter the Geonosians by using their strong defensive capabilities and burst damage.",
-          "characters": [
-            {
-              "name": "Padmé Amidala",
-              "avatar": "/assets/images/avatars/padme-amidala.webp",
-              "link": "https://swgoh.gg/characters/padme-amidala/"
-            },
-            {
-              "name": "Jedi Knight Anakin",
-              "avatar": "/assets/images/avatars/jedi-knight-anakin.webp",
-              "link": "https://swgoh.gg/characters/jedi-knight-anakin/"
-            },
-            {
-              "name": "Ahsoka Tano (Snips)",
-              "avatar": "/assets/images/avatars/snips.webp",
-              "link": "https://swgoh.gg/units/ahsoka-tano-snips/"
-            },
-            {
-              "name": "General Kenobi",
-              "avatar": "/assets/images/avatars/general-kenobi.webp",
-              "link": "https://swgoh.gg/characters/general-kenobi/"
-            },
-            {
-              "name": "C-3PO",
-              "avatar": "/assets/images/avatars/c-3po.webp",
-              "link": "https://swgoh.gg/characters/c-3po/"
-            }
-          ],
-          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
-        },
-        {
-          "name": "Darth Vader",
-          "info": "Vader at high relics can solo but you need to have very good speed mods on him. Usually best to throw some sith / empire in there to. Mara and palp are a good combo to add to this.",
-          "characters": [
-            {
-              "name": "Darth Vader",
-              "avatar": "/assets/images/avatars/darth-vader.webp",
-              "link": "https://swgoh.gg/characters/darth-vader/"
-            },
-            {
-              "name": "Any Empire",
-              "avatar": "/assets/images/avatars/empire.jpeg",
-              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
-            },
-            {
-              "name": "Any Empire",
-              "avatar": "/assets/images/avatars/empire.jpeg",
-              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
-            },
-            {
-              "name": "Any Empire",
-              "avatar": "/assets/images/avatars/empire.jpeg",
-              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
-            },
-            {
-              "name": "Any Empire",
-              "avatar": "/assets/images/avatars/empire.jpeg",
-              "link": "https://swgoh.gg/characters/?cat=affiliation_empire"
             }
           ],
           "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
