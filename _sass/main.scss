@@ -73,6 +73,7 @@ header {
     padding: $padding;
 }
 
+
 .team {
     margin-bottom: 2em;
 
@@ -114,7 +115,7 @@ header {
 
     .dropdown-content {
         display: none;
-        background-color: $background-color;
+        background-color: $dark-blue;
         padding: 0.5em;
 
         ul {
