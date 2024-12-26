@@ -334,6 +334,38 @@
             }
           ],
           "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
+        },
+        {
+          "name": "Tusken Team",
+          "info": "This team can counter the Trooper squad by utilizing their synergy and high damage output.",
+          "characters": [
+            {
+              "name": "Tusken Raider",
+              "avatar": "/assets/images/avatars/tusken-raider.webp",
+              "link": "https://swgoh.gg/characters/tusken-raider/"
+            },
+            {
+              "name": "Tusken Shaman",
+              "avatar": "/assets/images/avatars/tusken-shaman.webp",
+              "link": "https://swgoh.gg/characters/tusken-shaman/"
+            },
+            {
+              "name": "Tusken Chieftain",
+              "avatar": "/assets/images/avatars/tusken-chief.webp",
+              "link": "https://swgoh.gg/characters/tusken-chieftain/"
+            },
+            {
+              "name": "Tusken Warrior",
+              "avatar": "/assets/images/avatars/tusken-warrior.webp",
+              "link": "https://swgoh.gg/characters/tusken-warrior/"
+            },
+            {
+              "name": "URoRRuR'R'R",
+              "avatar": "/assets/images/avatars/urorrurrr.webp",
+              "link": "https://swgoh.gg/characters/tusken-champion/"
+            }
+          ],
+          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
         }
       ]
     },
