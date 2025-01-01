@@ -1,6 +1,52 @@
 {
   "teams": [
     {
+      "name": "Starkiller Team with mara-jade omicron",
+      "info": "Led by Palpatine, this team excels in raw damage and adaptability. The team consists of 1 jedi, 1 lightside unaligned force user, 1 darkside unaligned force user, one sith and starkiller. The team below is just an example the actual composition may vary but the strategy is the same.",
+      "characters": [
+        {
+          "name": "Emperor Palpatine",
+          "avatar": "/assets/images/avatars/emperor-palpatine.webp",
+          "link": "https://swgoh.gg/characters/emperor-palpatine/"
+        },
+        {
+          "name": "Starkiller",
+          "avatar": "/assets/images/avatars/starkiller.webp",
+          "link": "https://swgoh.gg/characters/starkiller/"
+        },
+        {
+          "name": "Visas Marr",
+          "avatar": "/assets/images/avatars/visas-marr.webp",
+          "link": "https://swgoh.gg/characters/visas-marr/"
+        },
+        {
+          "name": "Mara Jade, The Emperor's Hand",
+          "avatar": "/assets/images/avatars/mara-jade.webp",
+          "link": "https://swgoh.gg/characters/mara-jade-the-emperors-hand/"
+        },
+        {
+          "name": "Obi-Wan Kenobi (Old Ben)",
+          "avatar": "/assets/images/avatars/old-ben.webp",
+          "link": "https://swgoh.gg/units/obi-wan-kenobi-old-ben/"
+        }
+      ],
+      "counters": [
+        {
+          "name": "Ahsoka Tano (Fulcrum) Solo with Omicron",
+          "info": "OMICRON IS REQUIRED! Ahsoka Tano (Fulcrum) counters the Starkiller team using her ability to self-cleanse debuffs and deal massive damage, disrupting Starkiller's strategy.",
+          "characters": [
+            {
+              "name": "Ahsoka Tano (Fulcrum)",
+              "avatar": "/assets/images/avatars/fulcrum.webp",
+              "link": "https://swgoh.gg/characters/ahsoka-tano-fulcrum/"
+            }
+
+          ],
+          "youtube": "https://youtu.be/IYzFshmY-_o"
+        }
+      ]
+    },
+    {
       "name": "Geonosians",
       "info": "Led by Geonosian Brood Alpha, this team excels in swarming enemies with mass assists and health regeneration.  Always try to take out the weakest because they share their health and protection.",
       "characters": [
@@ -31,7 +77,6 @@
         }
       ],
       "counters": [
-
         {
           "name": "Padmé Amidala",
           "info": "This team can counter the Geonosians by using their strong defensive capabilities and burst damage.",
