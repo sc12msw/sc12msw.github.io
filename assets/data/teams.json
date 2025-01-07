@@ -40,9 +40,97 @@
               "avatar": "/assets/images/avatars/fulcrum.webp",
               "link": "https://swgoh.gg/characters/ahsoka-tano-fulcrum/"
             }
-
           ],
           "youtube": "https://youtu.be/IYzFshmY-_o"
+        }
+      ]
+    },
+    {
+      "name": "Jedi Master Luke Skywalker",
+      "info": "This team focuses on strong Jedi synergy, high survivability, and powerful attacks.",
+      "characters": [
+        {
+          "name": "Jedi Master Luke Skywalker",
+          "avatar": "/assets/images/avatars/jml.webp",
+          "link": "https://swgoh.gg/characters/jedi-master-luke-skywalker/"
+        },
+        {
+          "name": "Any Jedi",
+          "avatar": "/assets/images/avatars/jedi.webp",
+          "link": "https://swgoh.gg/characters/?cat=profession_jedi"
+        },
+        {
+          "name": "Any Jedi",
+          "avatar": "/assets/images/avatars/jedi.webp",
+          "link": "https://swgoh.gg/characters/?cat=profession_jedi"
+        },
+        {
+          "name": "Any Jedi",
+          "avatar": "/assets/images/avatars/jedi.webp",
+          "link": "https://swgoh.gg/characters/?cat=profession_jedi"
+        },
+        {
+          "name": "Any Jedi",
+          "avatar": "/assets/images/avatars/jedi.webp",
+          "link": "https://swgoh.gg/characters/?cat=profession_jedi"
+        }
+      ],
+      "counters": [
+        {
+          "name": "General Grievous",
+          "info": "THIS COUNTER ONLY WORKS IF JML DOES NOT HAVE JEDI CAL. General Grievous' team excels at applying debuffs and dealing heavy damage to counter JMLS effectively.",
+          "characters": [
+            {
+              "name": "General Grievous",
+              "avatar":  "/assets/images/avatars/grievous.webp",
+              "link": "https://swgoh.gg/characters/general-grievous/"
+            },
+            {
+              "name": "B1 Battle Droid",
+              "avatar":  "/assets/images/avatars/b1.webp",
+              "link": "https://swgoh.gg/characters/b1-battle-droid/"
+            },
+            {
+              "name": "B2 Super Battle Droid",
+              "avatar":  "/assets/images/avatars/b2.webp",
+              "link": "https://swgoh.gg/characters/b2-super-battle-droid/"
+            },
+            {
+              "name": "Droideka",
+              "avatar":  "/assets/images/avatars/droideka.webp",
+              "link": "https://swgoh.gg/characters/droideka/"
+            },
+            {
+              "name": "IG-100 MagnaGuard",
+              "avatar":  "/assets/images/avatars/magnaguard.webp",
+              "link": "https://swgoh.gg/characters/ig-100-magnaguard/"
+            }
+          ],
+          "strategy": [
+            {
+              "targetPriority": [
+                "Rey (Jedi Training): Eliminate her first to prevent healing and revives.",
+                "Jedi Knight Revan: Take him out next to reduce team synergy.",
+                "Jedi Master Luke Skywalker: Once the support is down, focus on JMLS."
+              ],
+              "abilities": [
+                "General Grievous: Use AoE (area-of-effect) abilities to apply debuffs and chip away at the enemy team's protection.",
+                "B1 Battle Droid: Assist General Grievous with healing and multiple attacks.",
+                "Droideka: Activate Damage Immunity and unleash powerful attacks against high-priority targets.",
+                "B2 Super Battle Droid: Dispel buffs from enemies to prevent them from gaining an advantage."
+              ],
+              "synergy": [
+                "General Grievous' Leadership: Boosts the team's offensive power and provides healing when droids are attacked.",
+                "B1 Battle Droid and General Grievous: B1 supports Grievous by providing consistent healing and additional attacks.",
+                "Droideka and General Grievous: Droideka’s high damage output can break down even the toughest opponents with General Grievous’ support."
+              ],
+              "tips": [
+                "Focus Fire: Concentrate on one target at a time to quickly reduce the enemy team's numbers.",
+                "Manage Buffs and Debuffs: Keep the enemy team debuffed and strip their buffs regularly.",
+                "Ultimate Abilities: Use General Grievous' and Droideka’s ultimates strategically to maximize damage at crucial moments."
+              ]
+            }
+          ]
         }
       ]
     },
@@ -551,3 +639,5 @@
     }
   ]
 }
+
+
