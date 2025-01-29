@@ -568,75 +568,82 @@
       ]
     },
     {
-      "name": "Nightsisters",
-      "info": "Led by Mother Talzin, this team focuses on revives and debuffs, making them a tough opponent. But anything with anti revive mechanics or anti heal usually works",
+      "name": "Inquisitors",
+      "info": "Led by Grand Inquisitor, this team focuses on applying debuffs and dealing significant damage. However, they can be countered by teams with high Tenacity or cleansers like Ahsoka Tano (Fulcrum).",
       "characters": [
         {
-          "name": "Mother Talzin",
-          "avatar": "/assets/images/avatars/mother-talzin.webp",
-          "link": "https://swgoh.gg/characters/mother-talzin/"
+          "name": "Grand Inquisitor",
+          "avatar": "/assets/images/avatars/grandinquisitor.webp",
+          "link": "https://swgoh.gg/characters/grand-inquisitor/"
         },
         {
-          "name": "Asajj Ventress",
-          "avatar": "/assets/images/avatars/asajj-ventress.webp",
-          "link": "https://swgoh.gg/characters/asajj-ventress/"
+          "name": "Second Sister",
+          "avatar": "/assets/images/avatars/secondsister.webp",
+          "link": "https://swgoh.gg/characters/second-sister/"
         },
         {
-          "name": "Old Daka",
-          "avatar": "/assets/images/avatars/old-daka.webp",
-          "link": "https://swgoh.gg/characters/old-daka/"
+          "name": "Fifth Brother",
+          "avatar": "/assets/images/avatars/fifthbrother.webp",
+          "link": "https://swgoh.gg/characters/fifth-brother/"
         },
         {
-          "name": "Nightsister Acolyte",
-          "avatar": "/assets/images/avatars/nightsister-acolyte.webp",
-          "link": "https://swgoh.gg/characters/nightsister-acolyte/"
+          "name": "Ninth Sister",
+          "avatar": "/assets/images/avatars/ninthsister.webp",
+          "link": "https://swgoh.gg/characters/ninth-sister/"
         },
         {
-          "name": "Nightsister Zombie",
-          "avatar": "/assets/images/avatars/nightsister-zombie.webp",
-          "link": "https://swgoh.gg/characters/nightsister-zombie/"
-        },
-        {
-          "name": "Merrin",
-          "avatar": "/assets/images/avatars/merrin.webp",
-          "link": "https://swgoh.gg/characters/merrin/"
+          "name": "Seventh Sister",
+          "avatar": "/assets/images/avatars/seventhsister.webp",
+          "link": "https://swgoh.gg/characters/seventh-sister/"
         }
       ],
       "counters": [
         {
-          "name": "Tusken Team",
-          "info": "This team can counter the Phoenix squad by utilizing their synergy and high damage output.",
+          "name": "Ahsoka Tano (Fulcrum) Omicron",
+          "info": "OMICRON REQUIRED. Ahsoka Tano (Fulcrum) can counter the Inquisitors by using her high Tenacity and cleansing abilities to remove debuffs and deal significant damage.",
           "characters": [
             {
-              "name": "Tusken Raider",
-              "avatar": "/assets/images/avatars/tusken-raider.webp",
-              "link": "https://swgoh.gg/characters/tusken-raider/"
-            },
-            {
-              "name": "Tusken Shaman",
-              "avatar": "/assets/images/avatars/tusken-shaman.webp",
-              "link": "https://swgoh.gg/characters/tusken-shaman/"
-            },
-            {
-              "name": "Tusken Chieftain",
-              "avatar": "/assets/images/avatars/tusken-chief.webp",
-              "link": "https://swgoh.gg/characters/tusken-chieftain/"
-            },
-            {
-              "name": "Tusken Warrior",
-              "avatar": "/assets/images/avatars/tusken-warrior.webp",
-              "link": "https://swgoh.gg/characters/tusken-warrior/"
-            },
-            {
-              "name": "URoRRuR'R'R",
-              "avatar": "/assets/images/avatars/urorrurrr.webp",
-              "link": "https://swgoh.gg/characters/tusken-champion/"
+              "name": "Ahsoka Tano (Fulcrum) With Omicron",
+              "avatar": "/assets/images/avatars/fulcrum.webp",
+              "link": "https://swgoh.gg/characters/ahsoka-tano-fulcrum/"
             }
           ],
-          "youtube": "https://www.youtube.com/watch?v=ush3m6UrdqY"
+          "youtube": "https://www.youtube.com/watch?v=example-video-link"
+        },
+        {
+          "name": "Phoenix",
+          "info": "Led by Hera Syndulla, the Phoenix team is resilient with numerous assists and revives.",
+          "characters": [
+            {
+              "name": "Hera Syndulla",
+              "avatar": "/assets/images/avatars/hera-syndulla.webp",
+              "link": "https://swgoh.gg/characters/hera-syndulla/"
+            },
+            {
+              "name": "Captain Rex",
+              "avatar": "/assets/images/avatars/captain-rex.webp",
+              "link": "https://swgoh.gg/units/captain-rex/"
+            },
+            {
+              "name": "Sabine Wren",
+              "avatar": "/assets/images/avatars/sabine-wren.webp",
+              "link": "https://swgoh.gg/units/sabine-wren/"
+            },
+            {
+              "name": "Chopper",
+              "avatar": "/assets/images/avatars/chopper.webp",
+              "link": "https://swgoh.gg/characters/chopper/"
+            },
+            {
+              "name": "Garazeb Orrelios",
+              "avatar": "/assets/images/avatars/zeb.webp",
+              "link": "https://swgoh.gg/units/garazeb-zeb-orrelios/"
+            }
+          ]
         }
       ]
     }
+
   ]
 }
 
