@@ -6,16 +6,15 @@
 $padding: 1em;
 $banner-size: 200px;
 $avatar-size: 50px;
-$dark-blue: #29507d; // Converted from hsl(203.18deg 33.85% 25.49%)
-$black: #2d2d2d; // Converted from hsl(0deg 0% 17.65%)
-$amber: #c9913e; // Converted from hsl(35.21deg 48.59% 48.82%)
-$light-blue: #728999; // Converted from hsl(195deg 20.87% 45.1%)
-$brown: #6b402f; // Converted from hsl(30deg 42.47% 28.63%)
-$background-color: $black;
-$header-background: $dark-blue;
-$text-color: $amber;
-$button-background: $header-background;
-$button-hover-background: $brown;
+$dark-blue: #29507d;
+$black: #2d2d2d;
+$amber: #c9913e;
+$light-blue: #728999;
+$brown: #6b402f;
+$background-color: #1c1c1c; // Darker background for modern look
+$text-color: #f0f0f0; // Lighter text color for better contrast
+$button-background: $amber;
+$button-hover-background: darken($amber, 10%);
 $sw-font: 'Star Wars', Arial, sans-serif;
 $font-stack: Arial, sans-serif;
 
@@ -25,78 +24,78 @@ body {
     color: $text-color;
     margin: 0;
     padding: 0;
-    font-weight: lighter;
+    font-weight: 300; // Use lighter font weight for a sleek look
+}
+
+h1, h2 {
+    font-family: $sw-font;
+    font-weight: 300;
 }
 
 h1 {
-    font-weight: lighter;
-    font-size: 4em;
-    font-family: $font-stack;
+    font-size: 3em; // Slightly smaller font size for better readability
+    margin-top: 0.5em;
 }
 
 h2 {
-    font-size: 2em;
-    font-weight: lighter;
-    font-family: $sw-font;
+    font-size: 2.5em;
+    margin: 0.5em 0;
 }
 
 a {
     text-decoration: none;
     color: inherit;
+    &:hover {
+        color: $amber; // Add hover effect for links
+    }
 }
 
 header {
-    background-color: $header-background;
     padding: $padding;
     text-align: center;
     position: relative;
 
-    h1 {
-        margin-top: 1em;
-        font-family: $sw-font;
-        font-size: 2em;
-        font-weight: lighter;
-    }
-
     .banner {
         height: $banner-size;
         width: $banner-size;
-        background-image: url('/assets/images/banner.png'); /* Replace with Jawa image URL */
+        background-image: url('/assets/images/banner.png');
         background-size: cover;
         background-position: center;
-        margin: 0 auto;
+        margin: 1em auto; // Add margin for spacing
         border-radius: 50%;
     }
 }
 
 .container {
     padding: $padding;
+    max-width: 1200px;
+    margin: auto;
 }
 
-
 .team {
-    margin-bottom: 2em;
-
-    h2 {
-        margin: 0.5em 0;
-    }
+    margin-bottom: 3em;
 
     .characters, .counters {
-        list-style-type: none;
+        list-style: none;
         padding: 0;
         display: flex;
         flex-wrap: wrap;
+        gap: 1em; // Add gap for spacing
 
         li {
             display: flex;
             align-items: center;
-            margin: 0.5em;
+            background-color: rgba(255, 255, 255, 0.1); // Add background for cards
+            padding: 0.5em;
+            border-radius: 10px; // Add border radius for rounded corners
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); // Add shadow for depth
 
             img {
                 width: $avatar-size;
                 height: $avatar-size;
                 border-radius: 50%;
                 margin-right: 0.5em;
+                box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); // Add shadow for depth
             }
         }
     }
@@ -106,17 +105,26 @@ header {
     margin-top: 0.5em;
 
     button {
-        background-color: $header-background;
+        background-color: $button-background;
         color: $text-color;
         padding: 0.5em 1em;
         border: none;
         cursor: pointer;
+        border-radius: 5px; // Add border radius for rounded corners
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); // Add shadow for depth
+
+        &:hover {
+            background-color: $button-hover-background;
+        }
     }
 
     .dropdown-content {
         display: none;
         background-color: $dark-blue;
         padding: 0.5em;
+        border-radius: 5px; // Add border radius for rounded corners
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); // Add shadow for depth
+        margin-top: 1em;
 
         ul {
             padding: 0;
@@ -132,33 +140,16 @@ header {
         color: $text-color;
         padding: 0.5em 1em;
         border: none;
-        border-radius: 5px;
+        border-radius: 5px; // Add border radius for rounded corners
         text-align: center;
         text-decoration: none;
         display: inline-block;
         cursor: pointer;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); // Add shadow for depth
+
+        &:hover {
+            background-color: $button-hover-background;
+        }
     }
-
-    .button-link:hover, .button:hover {
-        background-color: $button-hover-background;
-    }
 }
 
-.utinni {
-    display: block;
-    width: 300px;
-    margin: 1em auto;
-    background-color: $button-background;
-    color: $text-color;
-    padding: 0.5em 1em;
-    border: none;
-    border-radius: 5px;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-    background-color: $button-hover-background;
-}
-
-.utinni:hover, .utinni:hover {
-    background-color: $button-hover-background;
-}

@@ -1,6 +1,70 @@
 {
   "teams": [
     {
+      "name": "Jedi Master Kenobi Team",
+      "info": "This JMK team, led by Jedi Master Kenobi, is known for its high damage output and synergy.",
+      "characters": [
+        {
+          "name": "Jedi Master Kenobi",
+          "avatar": "/assets/images/avatars/jedi-master-kenobi.webp",
+          "link": "https://swgoh.gg/characters/jedi-master-kenobi/"
+        },
+        {
+          "name": "Jedi Knight Revan",
+          "avatar": "/assets/images/avatars/jedi-knight-revan.webp",
+          "link": "https://swgoh.gg/characters/jedi-knight-revan/"
+        },
+        {
+          "name": "Mace Windu",
+          "avatar": "/assets/images/avatars/mace-windu.webp",
+          "link": "https://swgoh.gg/characters/mace-windu/"
+        },
+        {
+          "name": "Commander Ahsoka Tano",
+          "avatar": "/assets/images/avatars/commander-ahsoka-tano.webp",
+          "link": "https://swgoh.gg/characters/commander-ahsoka-tano/"
+        },
+        {
+          "name": "Yoda",
+          "avatar": "/assets/images/avatars/grand-master-yoda.webp",
+          "link": "https://swgoh.gg/units/grand-master-yoda/"
+        }
+      ],
+      "counters": [
+        {
+          "name": "Padme Team with CAT",
+          "info": "You need to use your CAT to kill their CAT first then the rest is auto. This team can counter the GMK squad effectively with its strong synergy and defensive capabilities.",
+          "characters": [
+            {
+              "name": "Padmé Amidala",
+              "avatar": "/assets/images/avatars/padme-amidala.webp",
+              "link": "https://swgoh.gg/characters/padme-amidala/"
+            },
+            {
+              "name": "Commander Ahsoka Tano",
+              "avatar": "/assets/images/avatars/commander-ahsoka-tano.webp",
+              "link": "https://swgoh.gg/characters/commander-ahsoka-tano/"
+            },
+            {
+              "name": "General Kenobi",
+              "avatar": "/assets/images/avatars/general-kenobi.webp",
+              "link": "https://swgoh.gg/characters/general-kenobi/"
+            },
+            {
+              "name": "C-3PO",
+              "avatar": "/assets/images/avatars/c-3po.webp",
+              "link": "https://swgoh.gg/characters/c-3po/"
+            },
+            {
+              "name": "Snips",
+              "avatar": "/assets/images/avatars/snips.webp",
+              "link": "https://swgoh.gg/units/ahsoka-tano-snips/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "name": "Starkiller Team with mara-jade omicron",
       "info": "Led by Palpatine, this team excels in raw damage and adaptability. The team consists of 1 jedi, 1 lightside unaligned force user, 1 darkside unaligned force user, one sith and starkiller. The team below is just an example the actual composition may vary but the strategy is the same.",
       "characters": [
@@ -82,27 +146,27 @@
           "characters": [
             {
               "name": "General Grievous",
-              "avatar":  "/assets/images/avatars/grievous.webp",
+              "avatar": "/assets/images/avatars/grievous.webp",
               "link": "https://swgoh.gg/characters/general-grievous/"
             },
             {
               "name": "B1 Battle Droid",
-              "avatar":  "/assets/images/avatars/b1.webp",
+              "avatar": "/assets/images/avatars/b1.webp",
               "link": "https://swgoh.gg/characters/b1-battle-droid/"
             },
             {
               "name": "B2 Super Battle Droid",
-              "avatar":  "/assets/images/avatars/b2.webp",
+              "avatar": "/assets/images/avatars/b2.webp",
               "link": "https://swgoh.gg/characters/b2-super-battle-droid/"
             },
             {
               "name": "Droideka",
-              "avatar":  "/assets/images/avatars/droideka.webp",
+              "avatar": "/assets/images/avatars/droideka.webp",
               "link": "https://swgoh.gg/characters/droideka/"
             },
             {
               "name": "IG-100 MagnaGuard",
-              "avatar":  "/assets/images/avatars/magnaguard.webp",
+              "avatar": "/assets/images/avatars/magnaguard.webp",
               "link": "https://swgoh.gg/characters/ig-100-magnaguard/"
             }
           ],
@@ -643,7 +707,6 @@
         }
       ]
     }
-
   ]
 }
 

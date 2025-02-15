@@ -31,9 +31,6 @@ fetch('/assets/data/teams.json')
                                     </li>
                                 `).join('')}
                             </ul>
-                            <div class="video">
-                                <a href="${counter.youtube}" target="_blank" class="button button-link">Watch on YouTube</a>
-                            </div>
                         `).join('')}
                     </div>
                 </div>
@@ -41,13 +38,6 @@ fetch('/assets/data/teams.json')
             container.appendChild(teamDiv);
         });
     });
-
-// Function to enable sound and set an interval to repeat it every 5 minutes
-function enableSound() {
-    document.getElementById('jawasound').play();
-    setInterval(playSound, 300000); // 300000 milliseconds = 5 minutes
-    document.getElementById('enable-sound').style.display = 'none'; // Hide the button after enabling sound
-}
 
 // Function to play sound
 function playSound() {
