@@ -1,0 +1,434 @@
+{
+  "diet_plan_name": "Paleo Meal Plan (Gluten, Egg, Dairy, Yeast-Free)",
+  "daily_calorie_target": 1600,
+  "notes": "This meal plan is designed for a Paleo lifestyle, excluding gluten, eggs, dairy, and yeast. Ensure all processed items like sausages, broths, and coconut yogurt are certified free of gluten and other non-compliant ingredients. Drink plenty of water throughout the day.",
+  "meal_plan": {
+    "monday": {
+      "daily_total_calories": 1490,
+      "breakfast": {
+        "name": "Berry Protein Smoothie",
+        "calories": 420,
+        "recipe": "Blend 1 scoop of Paleo-friendly protein powder (e.g., beef or collagen peptides), 1 cup of unsweetened almond milk, 1/2 cup of mixed frozen berries, 1 tablespoon of almond butter, 2 cups of fresh spinach, 1/2 cup of kale, 1/4 cup of cucumber, and 1/4 cup of celery until smooth. Add 1/4 cup of water if needed for desired consistency."
+      },
+      "lunch": {
+        "name": "Large Chicken Salad",
+        "calories": 520,
+        "ingredients": [
+          "150g pre-cooked, shredded chicken breast",
+          "4 cups mixed salad greens",
+          "1 cup baby spinach",
+          "1/2 sliced cucumber",
+          "1 cup cherry tomatoes",
+          "1/4 sliced red onion",
+          "1/2 cup shredded carrots",
+          "1/2 cup sliced bell peppers",
+          "1/2 cup sliced radishes",
+          "1.5 tbsp olive oil",
+          "1 tbsp apple cider vinegar",
+          "Salt and pepper",
+          "1/2 avocado, sliced",
+          "Fresh herbs"
+        ],
+        "recipe": "Toss 150g of pre-cooked, shredded chicken breast with 4 cups of mixed salad greens, 1 cup of baby spinach, 1/2 sliced cucumber, 1 cup of cherry tomatoes, 1/4 sliced red onion, 1/2 cup of shredded carrots, 1/2 cup of sliced bell peppers, and 1/2 cup of sliced radishes. For the dressing, whisk together 1.5 tbsp olive oil, 1 tbsp apple cider vinegar, a pinch of salt, and pepper. Top with 1/2 an avocado, sliced, and garnish with fresh herbs."
+      },
+      "dinner": {
+        "name": "Sheet Pan Lemon Herb Salmon",
+        "calories": 550,
+        "ingredients": [
+          "150g salmon fillet",
+          "3 cups broccoli florets",
+          "2 cups cauliflower florets",
+          "1 cup sliced zucchini",
+          "1 cup sliced bell peppers",
+          "1 cup cherry tomatoes",
+          "1 tbsp olive oil",
+          "Salt and pepper",
+          "Dried oregano",
+          "Fresh lemon slices",
+          "150g steamed sweet potato",
+          "Fresh parsley"
+        ],
+        "recipe": "On a large baking sheet, place a 150g salmon fillet, 3 cups of broccoli florets, 2 cups of cauliflower florets, 1 cup of sliced zucchini, 1 cup of sliced bell peppers, and 1 cup of cherry tomatoes. Drizzle with 1 tbsp of olive oil. Season with salt, pepper, dried oregano, and fresh lemon slices. Bake at 200°C (400°F) for 15-20 minutes, or until salmon is cooked through. Serve with a side of steamed sweet potato (approx. 150g) and garnish with fresh parsley."
+      }
+    },
+    "tuesday": {
+      "daily_total_calories": 1460,
+      "breakfast": {
+        "name": "Coconut Chia Pudding",
+        "calories": 380,
+        "ingredients": [
+          "3 tbsp chia seeds",
+          "1 cup light coconut milk",
+          "1/2 tsp vanilla extract",
+          "1/2 sliced banana",
+          "1 tbsp toasted slivered almonds",
+          "1/4 cup fresh berries",
+          "1/4 cup shredded coconut",
+          "1/4 cup sliced strawberries"
+        ],
+        "recipe": "The night before, combine 3 tbsp of chia seeds, 1 cup of light coconut milk, and 1/2 tsp of vanilla extract in a jar. Shake well and refrigerate overnight. In the morning, top with 1/2 a sliced banana, 1 tbsp of toasted slivered almonds, 1/4 cup of fresh berries, 1/4 cup of shredded coconut, and 1/4 cup of sliced strawberries."
+      },
+      "lunch": {
+        "name": "Leftover Lemon Herb Salmon and Veggies",
+        "calories": 550,
+        "ingredients": [
+          "Leftover salmon",
+          "Leftover broccoli",
+          "Leftover cauliflower",
+          "Leftover zucchini",
+          "Leftover bell peppers",
+          "Leftover cherry tomatoes",
+          "2 cups fresh mixed greens",
+          "1/2 cup sliced cucumber",
+          "1/4 cup shredded carrots"
+        ],
+        "recipe": "Enjoy the leftover salmon, broccoli, cauliflower, zucchini, bell peppers, and cherry tomatoes from Monday's dinner. Serve over 2 cups of fresh mixed greens with 1/2 cup of sliced cucumber and 1/4 cup of shredded carrots. Can be eaten cold or gently reheated."
+      },
+      "dinner": {
+        "name": "Turkey Meatballs with Zucchini Noodles",
+        "calories": 530,
+        "ingredients": [
+          "150g ground turkey",
+          "1 minced garlic clove",
+          "1 tbsp chopped fresh parsley",
+          "Salt and pepper",
+          "1 tsp avocado oil",
+          "1 cup crushed tomatoes (passata)",
+          "3 medium spiralized zucchinis",
+          "1 cup spiralized carrots",
+          "1 cup spiralized beets",
+          "Fresh basil",
+          "1/4 cup cherry tomatoes"
+        ],
+        "recipe": "Mix 150g of ground turkey with 1 minced garlic clove, 1 tbsp chopped fresh parsley, salt, and pepper. Form into meatballs and brown in a pan with 1 tsp of avocado oil. Add 1 cup of crushed tomatoes (passata) and simmer until cooked. Serve over 3 medium spiralized zucchinis ('zoodles'), 1 cup of spiralized carrots, and 1 cup of spiralized beets, which have been lightly sautéed for 2-3 minutes. Garnish with fresh basil and 1/4 cup of cherry tomatoes."
+      }
+    },
+    "wednesday": {
+      "daily_total_calories": 1420,
+      "breakfast": {
+        "name": "Sweet Potato 'Toast' with Avocado",
+        "calories": 350,
+        "ingredients": [
+          "1 large sweet potato",
+          "1/2 mashed avocado",
+          "Lime juice",
+          "Salt and chili flakes",
+          "1 cup fresh spinach",
+          "1/2 cup sliced cucumber",
+          "1/4 cup cherry tomatoes"
+        ],
+        "recipe": "Cut a large sweet potato lengthwise into 1/4-inch thick slices. Toast them in a toaster or toaster oven on high for 2-3 cycles until tender. Top two slices with 1/2 a mashed avocado, a squeeze of lime juice, salt, and chili flakes. Serve with 1 cup of fresh spinach, 1/2 cup of sliced cucumber, and 1/4 cup of cherry tomatoes on the side."
+      },
+      "lunch": {
+        "name": "Leftover Turkey Meatballs and Zoodles",
+        "calories": 530,
+        "ingredients": [
+          "Leftover turkey meatballs",
+          "Leftover zucchini noodles",
+          "Leftover spiralized carrots",
+          "Leftover spiralized beets",
+          "Leftover tomato sauce"
+        ],
+        "recipe": "Reheat and enjoy the leftover meatballs and zoodles from Tuesday's dinner."
+      },
+      "dinner": {
+        "name": "Beef and Broccoli Stir-fry",
+        "calories": 540,
+        "ingredients": [
+          "150g sirloin steak",
+          "1 tbsp coconut oil",
+          "3 cups broccoli florets",
+          "1 cup sliced bell peppers",
+          "1 cup sliced mushrooms",
+          "1 cup sliced carrots",
+          "1 cup sliced zucchini",
+          "1 cup bean sprouts",
+          "3 tbsp coconut aminos",
+          "1 minced garlic clove",
+          "1 tsp grated ginger",
+          "2 cups cauliflower rice",
+          "1/4 cup sliced green onions"
+        ],
+        "recipe": "Slice 150g of sirloin steak thinly. In a wok or large pan, heat 1 tbsp coconut oil over high heat. Stir-fry the beef until browned, then set aside. Add 3 cups of broccoli florets, 1 cup of sliced bell peppers, 1 cup of sliced mushrooms, 1 cup of sliced carrots, 1 cup of sliced zucchini, and 1 cup of bean sprouts to the pan, stir-frying for 4-5 minutes. Return beef to the pan. Add a sauce made from 3 tbsp coconut aminos, 1 minced garlic clove, and 1 tsp grated ginger. Cook for 1-2 minutes. Serve over 2 cups of cauliflower rice and garnish with 1/4 cup of sliced green onions."
+      }
+    },
+    "thursday": {
+      "daily_total_calories": 1460,
+      "breakfast": {
+        "name": "Berry Protein Smoothie",
+        "calories": 420,
+        "ingredients": [
+          "1 scoop Paleo-friendly protein powder",
+          "1 cup unsweetened almond milk",
+          "1/2 cup mixed frozen berries",
+          "1 tbsp almond butter",
+          "2 cups fresh spinach",
+          "1 cup kale",
+          "1/2 cup cucumber",
+          "1/2 cup celery",
+          "1/4 cup fresh mint",
+          "1/4 cup water (if needed)"
+        ],
+        "recipe": "Blend 1 scoop of Paleo-friendly protein powder, 1 cup of unsweetened almond milk, 1/2 cup of mixed frozen berries, 1 tablespoon of almond butter, 2 cups of fresh spinach, 1 cup of kale, 1/2 cup of cucumber, 1/2 cup of celery, and 1/4 cup of fresh mint until smooth. Add 1/4 cup of water if needed for desired consistency."
+      },
+      "lunch": {
+        "name": "Leftover Beef and Broccoli Stir-fry",
+        "calories": 540,
+        "ingredients": [
+          "Leftover beef and broccoli stir-fry",
+          "Leftover cauliflower rice",
+          "Leftover sauce"
+        ],
+        "recipe": "Reheat and enjoy the leftovers from Wednesday's dinner."
+      },
+      "dinner": {
+        "name": "Chicken and Veggie Skewers",
+        "calories": 500,
+        "ingredients": [
+          "150g chicken breast",
+          "1 red onion",
+          "2 bell peppers",
+          "2 small zucchinis",
+          "1 cup mushrooms",
+          "1 cup cherry tomatoes",
+          "1 cup pineapple chunks",
+          "1 tbsp olive oil",
+          "Lemon juice",
+          "Dried oregano",
+          "3 cups mixed greens",
+          "1 cup sliced cucumber",
+          "1/2 cup shredded carrots"
+        ],
+        "recipe": "Cube 150g of chicken breast. Chop 1 red onion, 2 bell peppers, 2 small zucchinis, 1 cup of mushrooms, 1 cup of cherry tomatoes, and 1 cup of pineapple chunks into large pieces. Marinate the chicken and veggies in a mix of 1 tbsp olive oil, lemon juice, and dried oregano for 30 minutes. Thread onto skewers and grill or bake at 200°C (400°F) for 20-25 minutes, turning halfway. Serve with 3 cups of mixed greens, 1 cup of sliced cucumber, and 1/2 cup of shredded carrots."
+      }
+    },
+    "friday": {
+      "daily_total_calories": 1500,
+      "breakfast": {
+        "name": "Coconut Chia Pudding",
+        "calories": 380,
+        "ingredients": [
+          "3 tbsp chia seeds",
+          "1 cup light coconut milk",
+          "1/2 tsp vanilla extract",
+          "1/2 sliced banana",
+          "1 tbsp toasted slivered almonds",
+          "1/4 cup fresh berries",
+          "1/4 cup shredded coconut",
+          "1/4 cup sliced strawberries",
+          "1/4 cup sliced kiwi"
+        ],
+        "recipe": "The night before, combine 3 tbsp of chia seeds, 1 cup of light coconut milk, and 1/2 tsp of vanilla extract in a jar. Shake well and refrigerate overnight. In the morning, top with 1/2 a sliced banana, 1 tbsp of toasted slivered almonds, 1/4 cup of fresh berries, 1/4 cup of shredded coconut, 1/4 cup of sliced strawberries, and 1/4 cup of sliced kiwi."
+      },
+      "lunch": {
+        "name": "Leftover Chicken Skewers",
+        "calories": 500,
+        "ingredients": [
+          "Leftover chicken skewers",
+          "Mixed greens",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "recipe": "Remove chicken and veggies from skewers and serve over a bed of mixed greens. Drizzle with a little olive oil and lemon juice."
+      },
+      "dinner": {
+        "name": "Shepherd's Pie with Cauliflower Mash",
+        "calories": 620,
+        "ingredients": [
+          "2 diced carrots",
+          "2 celery stalks",
+          "1 onion",
+          "1 cup sliced mushrooms",
+          "1 cup diced zucchini",
+          "1 cup diced bell peppers",
+          "1 tbsp olive oil",
+          "150g ground beef",
+          "1 tbsp tomato paste",
+          "1/2 cup beef broth",
+          "1 head cauliflower",
+          "1 tbsp coconut oil",
+          "Salt and pepper",
+          "2 cups steamed broccoli",
+          "1 cup sautéed spinach"
+        ],
+        "recipe": "Sauté 2 diced carrots, 2 celery stalks, 1 onion, 1 cup of sliced mushrooms, 1 cup of diced zucchini, and 1 cup of diced bell peppers in 1 tbsp olive oil. Add 150g of ground beef and cook until browned. Stir in 1 tbsp tomato paste and 1/2 cup of beef broth; simmer until thickened. For the topping, steam 1 head of cauliflower until tender, then blend with 1 tbsp of coconut oil, salt, and pepper until smooth. Place the meat filling in an oven-safe dish, top with cauliflower mash, and bake at 190°C (375°F) for 20 minutes until bubbly. Serve with 2 cups of steamed broccoli and 1 cup of sautéed spinach."
+      }
+    },
+    "saturday": {
+      "daily_total_calories": 1540,
+      "breakfast": {
+        "name": "Sausage and Sweet Potato Hash",
+        "calories": 420,
+        "ingredients": [
+          "2 paleo-friendly sausage links",
+          "1 cup diced sweet potato",
+          "1 cup diced bell peppers",
+          "1 cup diced zucchini",
+          "1 cup diced mushrooms",
+          "1 cup diced onions",
+          "Salt, pepper, and paprika",
+          "2 cups fresh spinach",
+          "1 cup sliced tomatoes"
+        ],
+        "recipe": "Crumble and cook 2 paleo-friendly sausage links (check ingredients). In the same pan, sauté 1 cup of diced sweet potato, 1 cup of diced bell peppers, 1 cup of diced zucchini, 1 cup of diced mushrooms, and 1 cup of diced onions until tender. Add the sausage back to the pan and mix to combine. Season with salt, pepper, and paprika. Serve with 2 cups of fresh spinach and 1 cup of sliced tomatoes."
+      },
+      "lunch": {
+        "name": "Leftover Shepherd's Pie",
+        "calories": 620,
+        "ingredients": [
+          "Leftover shepherd's pie",
+          "Leftover steamed broccoli",
+          "Leftover sautéed spinach"
+        ],
+        "recipe": "Reheat and enjoy the leftovers from Friday's dinner."
+      },
+      "dinner": {
+        "name": "Steak with Roasted Asparagus",
+        "calories": 500,
+        "ingredients": [
+          "150g sirloin steak",
+          "Salt and pepper",
+          "1 tsp avocado oil",
+          "2 bunches asparagus",
+          "2 cups broccoli florets",
+          "2 cups cauliflower florets",
+          "1 cup sliced bell peppers",
+          "1 cup cherry tomatoes",
+          "1 tbsp olive oil",
+          "Fresh herbs"
+        ],
+        "recipe": "Season a 150g sirloin steak with salt and pepper and pan-sear in a hot skillet with 1 tsp of avocado oil for 3-5 minutes per side for medium-rare. Let it rest. Toss 2 bunches of asparagus, 2 cups of broccoli florets, 2 cups of cauliflower florets, 1 cup of sliced bell peppers, and 1 cup of cherry tomatoes with 1 tbsp of olive oil, salt, and pepper. Roast at 200°C (400°F) for 10-12 minutes. Serve steak with roasted vegetables and garnish with fresh herbs."
+      }
+    },
+    "sunday": {
+      "daily_total_calories": 1370,
+      "breakfast": {
+        "name": "Fruit Salad with Coconut Yogurt",
+        "calories": 320,
+        "ingredients": [
+          "2 cups mixed chopped fruit",
+          "1 cup sliced strawberries",
+          "1 cup sliced mango",
+          "1 cup sliced papaya",
+          "1/2 cup pomegranate seeds",
+          "1/2 cup unsweetened coconut yogurt",
+          "1/4 cup shredded coconut",
+          "Cinnamon",
+          "1 cup fresh mint leaves"
+        ],
+        "recipe": "Combine 2 cups of mixed chopped fruit (like berries, melon, kiwi, and pineapple), 1 cup of sliced strawberries, 1 cup of sliced mango, 1 cup of sliced papaya, and 1/2 cup of pomegranate seeds. Top with 1/2 cup of unsweetened, dairy-free coconut yogurt, 1/4 cup of shredded coconut, and a sprinkle of cinnamon. Serve with 1 cup of fresh mint leaves."
+      },
+      "lunch": {
+        "name": "Leftover Steak Salad",
+        "calories": 500,
+        "ingredients": [
+          "Leftover steak",
+          "3 cups mixed greens",
+          "Cherry tomatoes",
+          "Sliced cucumber",
+          "1 tbsp olive oil",
+          "1 tbsp balsamic vinegar"
+        ],
+        "recipe": "Slice the leftover steak from Saturday's dinner and serve it over 3 cups of mixed greens with cherry tomatoes and sliced cucumber. Use a simple dressing of 1 tbsp olive oil and 1 tbsp balsamic vinegar (ensure it is yeast-free)."
+      },
+      "dinner": {
+        "name": "Simple Roasted Chicken and Root Vegetables",
+        "calories": 550,
+        "ingredients": [
+          "180g chicken leg and thigh",
+          "3 cups chopped root vegetables",
+          "2 cups broccoli florets",
+          "2 cups cauliflower florets",
+          "1 cup sliced bell peppers",
+          "1 cup sliced zucchini",
+          "1 cup cherry tomatoes",
+          "1 tbsp melted coconut oil",
+          "Salt, pepper, rosemary, and thyme",
+          "2 cups fresh mixed greens"
+        ],
+        "recipe": "On a roasting tray, place a chicken leg and thigh (approx. 180g). Surround it with 3 cups of chopped root vegetables (carrots, parsnips, sweet potatoes), 2 cups of broccoli florets, 2 cups of cauliflower florets, 1 cup of sliced bell peppers, 1 cup of sliced zucchini, and 1 cup of cherry tomatoes. Drizzle everything with 1 tbsp of melted coconut oil and season generously with salt, pepper, rosemary, and thyme. Roast at 190°C (375°F) for 45-55 minutes, or until the chicken is cooked through and juices run clear. Serve with 2 cups of fresh mixed greens."
+      }
+    }
+  },
+  "shopping_list": {
+    "produce": [
+      { "item": "Spinach", "quantity": "2 large bags" },
+      { "item": "Kale", "quantity": "1 large bag" },
+      { "item": "Mixed Salad Greens", "quantity": "3 large bags" },
+      { "item": "Avocado", "quantity": "2" },
+      { "item": "Lemon", "quantity": "3" },
+      { "item": "Lime", "quantity": "2" },
+      { "item": "Mixed Berries (frozen)", "quantity": "1 bag" },
+      { "item": "Banana", "quantity": "2" },
+      { "item": "Cucumber", "quantity": "2 large" },
+      { "item": "Cherry Tomatoes", "quantity": "2 punnets" },
+      { "item": "Red Onion", "quantity": "3" },
+      { "item": "Yellow Onion", "quantity": "2" },
+      { "item": "Broccoli", "quantity": "3 heads" },
+      { "item": "Bell Peppers (assorted colors)", "quantity": "6" },
+      { "item": "Sweet Potatoes", "quantity": "4-5 large" },
+      { "item": "Garlic", "quantity": "3 heads" },
+      { "item": "Ginger Root", "quantity": "1 piece" },
+      { "item": "Zucchini", "quantity": "6 large" },
+      { "item": "Cauliflower", "quantity": "2 heads" },
+      { "item": "Carrots", "quantity": "2 bags" },
+      { "item": "Celery", "quantity": "2 stalks" },
+      { "item": "Asparagus", "quantity": "2 bunches" },
+      { "item": "Parsnips", "quantity": "2-3" },
+      { "item": "Mushrooms", "quantity": "2 packs" },
+      { "item": "Radishes", "quantity": "1 bunch" },
+      { "item": "Bean Sprouts", "quantity": "1 bag" },
+      { "item": "Green Onions", "quantity": "1 bunch" },
+      { "item": "Fresh Mint", "quantity": "1 bunch" },
+      { "item": "Fresh Basil", "quantity": "1 bunch" },
+      { "item": "Fresh Parsley", "quantity": "1 bunch" },
+      { "item": "Fresh Rosemary", "quantity": "1 sprig" },
+      { "item": "Fresh Thyme", "quantity": "1 sprig" },
+      { "item": "Strawberries", "quantity": "2 punnets" },
+      { "item": "Mango", "quantity": "2" },
+      { "item": "Papaya", "quantity": "1" },
+      { "item": "Pineapple", "quantity": "1" },
+      { "item": "Pomegranate", "quantity": "1" },
+      { "item": "Kiwi", "quantity": "4" },
+      { "item": "Beets", "quantity": "3" }
+    ],
+    "protein": [
+      { "item": "Paleo Protein Powder (Beef/Collagen)", "quantity": "1 tub" },
+      { "item": "Chicken Breast", "quantity": "450g (1 lb)" },
+      { "item": "Chicken Leg & Thigh", "quantity": "1 pack" },
+      { "item": "Salmon Fillet", "quantity": "150g (5 oz)" },
+      { "item": "Ground Turkey", "quantity": "150g (5 oz)" },
+      { "item": "Ground Beef", "quantity": "150g (5 oz)" },
+      { "item": "Sirloin Steak", "quantity": "300g (10 oz)" },
+      { "item": "Paleo-friendly Sausages (gluten/grain free)", "quantity": "1 pack of 2" }
+    ],
+    "pantry": [
+      { "item": "Unsweetened Almond Milk", "quantity": "1 carton" },
+      { "item": "Light Coconut Milk (canned)", "quantity": "1-2 cans" },
+      { "item": "Chia Seeds", "quantity": "1 bag" },
+      { "item": "Almond Butter", "quantity": "1 jar" },
+      { "item": "Slivered Almonds", "quantity": "1 small bag" },
+      { "item": "Crushed Tomatoes / Passata", "quantity": "1 can/jar" },
+      { "item": "Tomato Paste", "quantity": "1 tube/can" },
+      { "item": "Coconut Aminos", "quantity": "1 bottle" },
+      { "item": "Beef Broth (gluten & yeast-free)", "quantity": "1 carton" },
+      { "item": "Apple Cider Vinegar", "quantity": "1 bottle" },
+      { "item": "Balsamic Vinegar (yeast-free)", "quantity": "1 bottle" },
+      { "item": "Unsweetened Coconut Yogurt", "quantity": "1 tub" }
+    ],
+    "fats_and_oils": [
+      { "item": "Olive Oil", "quantity": "1 bottle" },
+      { "item": "Coconut Oil", "quantity": "1 jar" },
+      { "item": "Avocado Oil", "quantity": "1 bottle" }
+    ],
+    "spices_and_seasonings": [
+      { "item": "Sea Salt", "quantity": "1" },
+      { "item": "Black Pepper", "quantity": "1" },
+      { "item": "Vanilla Extract", "quantity": "1 bottle" },
+      { "item": "Chili Flakes", "quantity": "1 jar" },
+      { "item": "Dried Oregano", "quantity": "1 jar" },
+      { "item": "Paprika", "quantity": "1 jar" },
+      { "item": "Cinnamon", "quantity": "1 jar" }
+    ]
+  }
+} 
